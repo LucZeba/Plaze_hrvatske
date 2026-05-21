@@ -1,0 +1,885 @@
+id,naziv,lat,lon,grad,podrucje,zupanija,godisnja_ocjena_2015,konacna_ocjena_2012_2015
+1,AC Indije,44.82464,13.84613,Medulin,Banjole,Istarska,izvrsno,izvrsno
+2,Banjole - Centener sumica,44.81886,13.85404,Medulin,Banjole,Istarska,izvrsno,izvrsno
+3,Banjole - Odmaraliste Centener,44.82099,13.85421,Medulin,Banjole,Istarska,izvrsno,izvrsno
+4,Banjole - Uvala,44.82155,13.84998,Medulin,Banjole,Istarska,izvrsno,izvrsno
+5,Fratarski otok - prema kopnu,44.83007,13.84385,Pula,Banjole,Istarska,izvrsno,izvrsno
+6,Barban - Blaz,45.00671666,14.04154444,Barban,Barban,Istarska,izvrsno,izvrsno
+7,Barbariga - Mandriol,44.98713888,13.73994444,Vodnjan,Barbariga,Istarska,izvrsno,izvrsno
+8,Hotel Pical - Bungalovi,45.23791,13.5929,Poreč,Borik,Istarska,izvrsno,izvrsno
+9,Hotel Pical - Plaza Borik,45.23545,13.59498,Poreč,Borik,Istarska,izvrsno,izvrsno
+10,Brestova - Uz pristaniste,45.14423,14.22297,Kršan,Brestova,Istarska,izvrsno,izvrsno
+11,Nacionalni park Brijuni - Centralna plaza - drveni molo,44.91663,13.7778,Pula,Brijuni,Istarska,izvrsno,izvrsno
+12,Hotel Rubin - Plaza Brulo,45.21582,13.59346,Poreč,Brulo,Istarska,izvrsno,izvrsno
+13,Uvala Brulo - Plaza,45.21499,13.59086,Poreč,Brulo,Istarska,izvrsno,izvrsno
+14,Crveni otok - Ispod vanjskih bazena,45.05786,13.62265,Rovinj,Crveni otok,Istarska,izvrsno,izvrsno
+15,Crveni otok - Prema rtu Kurent,45.06036,13.62798,Rovinj,Crveni otok,Istarska,dobro,izvrsno
+16,Crveni otok - Uvala istocno od nasipa,45.05753,13.62792,Rovinj,Crveni otok,Istarska,izvrsno,izvrsno
+17,Crveni otok - Uvala zapadno od nasipa,45.0577,13.62531,Rovinj,Crveni otok,Istarska,izvrsno,izvrsno
+18,Crveni otok - Zapadna strana otoka,45.05948,13.61885,Rovinj,Crveni otok,Istarska,izvrsno,izvrsno
+19,"Otok Maskin - FKK, juzna strana otoka",45.05436,13.62427,Rovinj,Crveni otok,Istarska,izvrsno,izvrsno
+20,CČervar - Porat,45.27621,13.59429,Poreč,Červar,Istarska,izvrsno,izvrsno
+21,CČervar - Puntica Larun,45.27842,13.59573,Tar-Vabriga,Červar,Istarska,izvrsno,izvrsno
+22,Duga Uvala - Hotel Croatia,44.92636,14.02701,Marčana,Duga Uvala,Istarska,dobro,izvrsno
+23,Fazana - Djecje igraliste,44.92356,13.80156,Fažana,Fažana,Istarska,izvrsno,izvrsno
+24,Fazana - Sjever,44.93007336177714,13.801698088645935,Fažana,Fažana,Istarska,izvrsno,izvrsno
+25,AC Finida - Sredina,45.3918,13.53539,Umag,Finida,Istarska,izvrsno,izvrsno
+26,AC Istra - Plaza Istra,45.17263,13.59253,Funtana,Funtana,Istarska,izvrsno,izvrsno
+27,AC Puntica - Prema ribarskoj luci,45.17873,13.59865,Funtana,Funtana,Istarska,izvrsno,izvrsno
+28,TN Funtana - Uvala Frnazine,45.17216,13.59595,Funtana,Funtana,Istarska,izvrsno,izvrsno
+29,Hotel Girandella - Ispod restorana,45.07678,14.17062,Labin,Girandela,Istarska,izvrsno,izvrsno
+30,Hotel Neptun - Ispod hotela,45.07798,14.17293,Labin,Girandela,Istarska,izvrsno,izvrsno
+31,AC Kanegra - Bullea,45.4849,13.5679,Buje,Kanegra,Istarska,izvrsno,izvrsno
+32,AC Kanegra - Ispod restorana,45.48854,13.56096,Buje,Kanegra,Istarska,izvrsno,izvrsno
+33,AC Kanegra - Market,45.48663,13.56524,Buje,Kanegra,Istarska,izvrsno,izvrsno
+34,TN Alberi - Skiper,45.49895,13.53377,Umag,Kanegra,Istarska,izvrsno,izvrsno
+35,Karigador - Molo,45.35886,13.5465,Brtonigla,Karigador,Istarska,izvrsno,izvrsno
+36,Otok Katarina - Prema marini,45.0782,13.63361,Rovinj,Katarina O.,Istarska,izvrsno,izvrsno
+37,Otok Katarina - Uvala Lone,45.07594,13.62871,Rovinj,Katarina O.,Istarska,izvrsno,izvrsno
+38,Katoro - Hotel Aurora,45.45615,13.51234,Umag,Katoro,Istarska,izvrsno,izvrsno
+39,Katoro - Hotel Koralj,45.46239,13.51135,Umag,Katoro,Istarska,izvrsno,izvrsno
+40,"Katoro - TN Polynesia, FKK",45.46594,13.50525,Umag,Katoro,Istarska,izvrsno,izvrsno
+41,Katoro - Velestrin,45.46128,13.50948,Umag,Katoro,Istarska,izvrsno,izvrsno
+42,AC Kazela - FKK,44.80401,13.95941,Medulin,Kazela,Istarska,izvrsno,izvrsno
+43,AC Kazela - FKK III,44.80244,13.96454,Medulin,Kazela,Istarska,izvrsno,izvrsno
+44,AC Kazela - Textil Strand,44.80391,13.95533,Medulin,Kazela,Istarska,izvrsno,izvrsno
+45,Kolone - Uvala Sv. Jakov,45.00795,13.72023,Bale,Kolone,Istarska,izvrsno,izvrsno
+46,Kolone - Uvala Sv. Pavao,45.02202,13.71285,Bale,Kolone,Istarska,izvrsno,izvrsno
+47,Skaraba - Rt Rusi,45.06411,13.6427,Rovinj,Koronsun U.,Istarska,izvrsno,izvrsno
+48,AC Koversada - Djecja plaza,45.1313,13.60835,Vrsar,Koversada,Istarska,izvrsno,izvrsno
+49,AC Koversada - Pjescana plaza,45.13552,13.60067,Vrsar,Koversada,Istarska,izvrsno,izvrsno
+50,AC Koversada - Rt Fujaga,45.13052,13.61074,Vrsar,Koversada,Istarska,izvrsno,izvrsno
+51,Uvala Kuvi - Plaza,45.06567,13.65073,Rovinj,Kuvi,Istarska,izvrsno,izvrsno
+52,AC Ladin Gaj - FKK (juzni dio),45.36733,13.53859,Brtonigla,Ladin Gaj,Istarska,izvrsno,izvrsno
+53,Uvala Kanova - Ispod restorana,45.3717,13.5415,Brtonigla,Ladin Gaj,Istarska,izvrsno,izvrsno
+54,Rt Malin - Ispod kafica Plaja,45.37275,13.53844,Umag,Ladin Gaj,Istarska,izvrsno,izvrsno
+55,Hotel Lanterna - Ispod hotela (istok),45.07369,14.1675,Labin,Lanterna,Istarska,izvrsno,izvrsno
+56,Hotel Lanterna - Ispod hotela (zapad),45.07259,14.16462,Labin,Lanterna,Istarska,izvrsno,izvrsno
+57,Hotel Marina - Ispod hotela,45.0736,14.16322,Labin,Lanterna,Istarska,izvrsno,izvrsno
+58,Hotel Merkur - Ispod hotela,45.07584,14.16917,Labin,Lanterna,Istarska,izvrsno,izvrsno
+59,Hotel St. Andrea - Ispod hotela,45.0735,14.16077,Labin,Lanterna,Istarska,izvrsno,izvrsno
+60,AC Lanterna - Plaza Valeta,45.29829,13.58924,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+61,Lanterna - Debeli rt,45.30112,13.57598,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+62,Lanterna - Rt Zub,45.29881,13.56808,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+63,Lanterna - Uvala Valeta - sport,45.29942,13.58176,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+64,TN Lanterna - Plaza Crnika,45.29472,13.57272,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+65,TN Solaris - Plaza Galeb,45.28939,13.58059,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+66,TN Solaris - Plaza Valetica,45.28307,13.59013,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+67,TN Solaris - Uvala pod Ravnice,45.29147,13.57664,Tar-Vabriga,Lanterna,Istarska,izvrsno,izvrsno
+68,Lone - Ispod hotela Monte Mulini,45.07198,13.63524,Rovinj,Lone U.,Istarska,izvrsno,izvrsno
+69,Monte Mulini - Do lukobrana,45.07332,13.63437,Rovinj,Lone U.,Istarska,izvrsno,izvrsno
+70,Lovrecica - Molo,45.381,13.53602,Umag,Lovreica,Istarska,izvrsno,izvrsno
+71,Uvala Slanik,45.37907,13.54005,Umag,Lovreica,Istarska,izvrsno,izvrsno
+72,AC Mareda - Ispod restorana,45.34198,13.54133,Novigrad,Mareda,Istarska,izvrsno,izvrsno
+73,Mareda - Caffe Macumba,45.34478,13.53882,Novigrad,Mareda,Istarska,izvrsno,izvrsno
+74,Rt Sv. Martin - Prema uvali Sv. Martin,45.25103,13.59093,Poreč,Materada,Istarska,izvrsno,izvrsno
+75,AC Medulin - Mali poluotok (punta),44.80303,13.93141,Medulin,Medulin,Istarska,izvrsno,izvrsno
+76,AC Medulin - Markovi brigi,44.80745,13.93201,Medulin,Medulin,Istarska,izvrsno,izvrsno
+77,AC Medulin - Restoran Financa,44.80784,13.92623,Medulin,Medulin,Istarska,izvrsno,izvrsno
+78,AC Medulin - Spoj mali poluotok,44.80509,13.92866,Medulin,Medulin,Istarska,izvrsno,izvrsno
+79,AC Medulin - Skrape,44.80571,13.93092,Medulin,Medulin,Istarska,izvrsno,izvrsno
+80,AC Medulin - Ulaz,44.81051,13.92679,Medulin,Medulin,Istarska,izvrsno,izvrsno
+81,Hotel Belvedere - Molo,44.81019,13.9406,Medulin,Medulin,Istarska,izvrsno,izvrsno
+82,Hotel Holiday - Ispod hotela,44.81109,13.93801,Medulin,Medulin,Istarska,izvrsno,izvrsno
+83,Posesi - Posesi,44.8087,13.94187,Medulin,Medulin,Istarska,izvrsno,izvrsno
+84,Uvala Bijeca - Plaza,44.80909,13.93345,Medulin,Medulin,Istarska,izvrsno,izvrsno
+85,AC Amarin - Ispod restorana,45.10505,13.6128,Rovinj,Monsena,Istarska,izvrsno,izvrsno
+86,AC Amarin - Molo,45.10359,13.61674,Rovinj,Monsena,Istarska,izvrsno,izvrsno
+87,AC Amarin - pjescana plaza,45.10319,13.61891,Rovinj,Monsena,Istarska,izvrsno,izvrsno
+88,TN Valdaliso - Rt Barabiga,45.09932,13.62285,Rovinj,Monsena,Istarska,izvrsno,izvrsno
+89,Novigrad - Karpinjan,45.32173,13.55782,Novigrad,Novigrad,Istarska,izvrsno,izvrsno
+90,Novigrad - Rivarela,45.31313888,13.5635,Novigrad,Novigrad,Istarska,izvrsno,izvrsno
+91,Novigrad - Sv. Pelagij,45.3179,13.55823,Novigrad,Novigrad,Istarska,izvrsno,izvrsno
+92,Novigrad - Zidine,45.31333,13.55994,Novigrad,Novigrad,Istarska,izvrsno,izvrsno
+93,Pelegrin - Pelegrin,45.40580555,13.52441666,Umag,Pelegrin,Istarska,izvrsno,izvrsno
+94,Spina - Spina,45.40148,13.52897,Umag,Pelegrin,Istarska,izvrsno,izvrsno
+95,Peroj - Bozinka,44.94615532,13.78809195,Vodnjan,Peroj,Istarska,izvrsno,izvrsno
+96,TN Petalon - Kamenita plaza,45.1397,13.59743,Vrsar,Petalon,Istarska,izvrsno,izvrsno
+97,Pineta - jug,45.32638888,13.54580555,Novigrad,Pineta,Istarska,izvrsno,izvrsno
+98,Pjescana Uvala - Plaza,44.83715,13.84575,Medulin,Pjeana uvala,Istarska,izvrsno,nezadovoljavajuće
+99,Hotel Galiot - Ispod hotela,45.20804,13.5874,Poreč,Plava laguna,Istarska,izvrsno,izvrsno
+100,Hotel Galiot - Prema uvali,45.2104,13.5883,Poreč,Plava laguna,Istarska,izvrsno,izvrsno
+101,Restoran Istarska hiza - Plaza,45.21185,13.59001,Poreč,Plava laguna,Istarska,izvrsno,izvrsno
+102,Plominski zaljev - Drazine istok,45.13265,14.18198,Kršan,Plomin,Istarska,izvrsno,izvrsno
+103,Plominski zaljev - Drazine zapad,45.13315,14.17935,Kršan,Plomin,Istarska,dobro,izvrsno
+104,AC Polari - Plaza Polari,45.05996,13.66984,Rovinj,Polari,Istarska,izvrsno,izvrsno
+105,AC Polari - Prema rtu Bili Runci,45.05463,13.67431,Rovinj,Polari,Istarska,izvrsno,izvrsno
+106,AC Polari - Prema rtu Eva,45.05535,13.67143,Rovinj,Polari,Istarska,izvrsno,izvrsno
+107,Pomer - AC Pomer,44.81698,13.89939,Medulin,Pomer,Istarska,izvrsno,izvrsno
+108,Pomer - Plaza prema ACY Marini,44.81848,13.90315,Medulin,Pomer,Istarska,izvrsno,izvrsno
+109,Gradska plaza,45.22193,13.59246,Poreč,Poreč,Istarska,izvrsno,izvrsno
+110,Hotel Riviera - Ispod hotela,45.22831,13.58834,Poreč,Poreč,Istarska,zadovoljavajuće,zadovoljavajuće
+111,Peskera - Lijeva strana uvale,45.23003,13.59099,Poreč,Poreč,Istarska,dobro,dobro
+112,Rt Bara - Plaza,45.21755,13.59124,Poreč,Poreč,Istarska,izvrsno,izvrsno
+113,Sv. Duh - Bunker,45.2194,13.59158,Poreč,Poreč,Istarska,izvrsno,izvrsno
+114,AC Stupice - Juzno od poluotoka,44.79358,13.91862,Medulin,Premantura,Istarska,izvrsno,zadovoljavajuće
+115,AC Stupice - Poluotok,44.79787,13.9207,Medulin,Premantura,Istarska,izvrsno,izvrsno
+116,AC Stupice - Rt Munat,44.80395,13.92435,Medulin,Premantura,Istarska,izvrsno,izvrsno
+117,TN Punta - Hotel Adriatic,45.43937,13.51052,Umag,Punta,Istarska,izvrsno,izvrsno
+118,TN Punta - Hotel Sipar,45.44471,13.50953,Umag,Punta,Istarska,izvrsno,izvrsno
+119,TN Punta - Hotel Umag,45.4462,13.51198,Umag,Punta,Istarska,izvrsno,izvrsno
+120,Hotel Eden - Ispod hotela,45.06976,13.63545,Rovinj,Punta Corrente,Istarska,izvrsno,izvrsno
+121,Punta Corrente - Rt Kurent,45.06282,13.63132,Rovinj,Punta Corrente,Istarska,izvrsno,izvrsno
+122,Punta Corrente - Uvala Lone,45.06972,13.63112,Rovinj,Punta Corrente,Istarska,izvrsno,izvrsno
+123,Skaraba - Uvala Velika Skaraba,45.06427,13.63902,Rovinj,Punta Corrente,Istarska,izvrsno,izvrsno
+124,Puntizela - Monte Cristo Beach,44.89592,13.80264,Pula,Puntiela,Istarska,izvrsno,izvrsno
+125,Puntizela - Plaza Golubine,44.89527,13.80118,Pula,Puntiela,Istarska,izvrsno,izvrsno
+126,Rabac naselje - AC Maslinica I,45.07814,14.15244,Labin,Rabac,Istarska,izvrsno,izvrsno
+127,Rabac naselje - AC Maslinica II,45.07653,14.15274,Labin,Rabac,Istarska,izvrsno,izvrsno
+128,TN Ravni - Pozicija I,44.99737,14.16915,Raša,Ravni,Istarska,izvrsno,izvrsno
+129,TN Ravni - Pozicija II,44.99588,14.17044,Raša,Ravni,Istarska,izvrsno,izvrsno
+130,Hotel Rovinj - Ispod hotela,45.08219,13.62975,Rovinj,Rovinj - Stari grad,Istarska,izvrsno,izvrsno
+131,AC Basanija - Plaza Feral,45.48574,13.48861,Umag,Savudrija,Istarska,izvrsno,izvrsno
+132,AC Borozija,45.49544,13.49489,Umag,Savudrija,Istarska,izvrsno,izvrsno
+133,Hotel Moj Mir - Ispod hotela,45.48216,13.49347,Umag,Savudrija,Istarska,izvrsno,izvrsno
+134,TN Punta - Villa Rita,45.44766,13.51297,Umag,Stella Maris,Istarska,izvrsno,izvrsno
+135,TN Stella Maris - Laguna ispod aquagana,45.44849,13.51869,Umag,Stella Maris,Istarska,izvrsno,izvrsno
+136,TN Stella Maris - Restoran,45.44915,13.51151,Umag,Stella Maris,Istarska,izvrsno,izvrsno
+137,TN Stella Maris - Uvala Krapan,45.45399,13.51379,Umag,Stella Maris,Istarska,izvrsno,izvrsno
+138,TN Stella Maris- Jezero,45.45222,13.51069,Umag,Stella Maris,Istarska,izvrsno,izvrsno
+139,AC Stoja - Prema gradskoj plazi,44.85407,13.81615,Pula,Stoja,Istarska,izvrsno,izvrsno
+140,AC Stoja - Prema pucini,44.85619,13.81092,Pula,Stoja,Istarska,izvrsno,izvrsno
+141,AC Stoja - Prema Valovinama,44.85817,13.81093,Pula,Stoja,Istarska,izvrsno,izvrsno
+142,Stoja - Gradska plaza,44.85812,13.81724,Pula,Stoja,Istarska,izvrsno,izvrsno
+143,Stoja - Naselje Zelenika,44.85894,13.82078,Pula,Stoja,Istarska,izvrsno,izvrsno
+144,Valkane - Sredina uvale,44.85654,13.82475,Pula,Stoja,Istarska,izvrsno,izvrsno
+145,Valovine,44.86026,13.8106,Pula,Stoja,Istarska,izvrsno,izvrsno
+146,AC Marina - Crkvica,45.03111,14.16058,Raša,Sv. Marina,Istarska,izvrsno,izvrsno
+147,AC Marina - Pozicija II,45.03169,14.15765,Raša,Sv. Marina,Istarska,izvrsno,izvrsno
+148,AC Marina - Uvala,45.033,14.15627,Raša,Sv. Marina,Istarska,izvrsno,izvrsno
+149,Otok Sv. Nikola - Istok,45.22436,13.5884,Poreč,Sv. Nikola O.,Istarska,zadovoljavajuće,izvrsno
+150,Otok Sv. Nikola - Plaza Oliva,45.22213,13.58856,Poreč,Sv. Nikola O.,Istarska,zadovoljavajuće,izvrsno
+151,Hotel Materada - Juzni dio,45.24613,13.59234,Poreč,Špadiči,Istarska,izvrsno,izvrsno
+152,Hotel Materada - Sjeverni dio,45.24736,13.59036,Poreč,Špadiči,Istarska,izvrsno,izvrsno
+153,Spadici - Uvala Srgulje (juzni dio),45.23991,13.59536,Poreč,Špadiči,Istarska,izvrsno,izvrsno
+154,Spadici - Uvala Srgulje (sjeverni dio),45.24323,13.59792,Poreč,Špadiči,Istarska,izvrsno,izvrsno
+155,Spadici - Uvala Srgulje (sredina),45.2417,13.59731,Poreč,Špadiči,Istarska,izvrsno,izvrsno
+156,TN Tere - AC Sirena,45.31348,13.5767,Novigrad,Tere,Istarska,izvrsno,izvrsno
+157,TN Tere - Hotel Laguna,45.31356,13.57509,Novigrad,Tere,Istarska,izvrsno,izvrsno
+158,TN Tere - Hotel Maestral,45.31346,13.57281,Novigrad,Tere,Istarska,izvrsno,izvrsno
+159,AC Tunarica - Lijeva strana uvale,44.97097,14.09685,Raša,Tunarica,Istarska,izvrsno,izvrsno
+160,AC Ulika - Rt Frnaze,45.25406,13.58023,Poreč,Ulika,Istarska,izvrsno,izvrsno
+161,AC Ulika - Rt Silok - sjeverni dio,45.25743,13.57541,Poreč,Ulika,Istarska,izvrsno,izvrsno
+162,AC Ulika - Uvala Busuja,45.25959,13.57691,Poreč,Ulika,Istarska,izvrsno,izvrsno
+163,AC Ulika - Uvala Frnaze,45.25478,13.57652,Poreč,Ulika,Istarska,izvrsno,izvrsno
+164,Moela,45.42661,13.51719,Umag,Umag,Istarska,izvrsno,izvrsno
+165,Moela - Gradska plaza,45.43145,13.51709,Umag,Umag,Istarska,izvrsno,izvrsno
+166,AC Valalta - Ispod aquagana,45.12268,13.62297,Rovinj,Valalta,Istarska,izvrsno,izvrsno
+167,AC Valalta - Rt Feliks,45.12826,13.62284,Rovinj,Valalta,Istarska,izvrsno,izvrsno
+168,AC Valalta - Uvala prema marini,45.1253,13.62081,Rovinj,Valalta,Istarska,izvrsno,izvrsno
+169,AC Bi Village - Plaza Bival,44.91519,13.80338,Fažana,Valbandon,Istarska,izvrsno,izvrsno
+170,Valbandon - Plaza,44.91241,13.80771,Fažana,Valbandon,Istarska,izvrsno,izvrsno
+171,AC Valkanela - Prema otocima Salamun,45.16215,13.6008,Vrsar,Valkanela,Istarska,izvrsno,izvrsno
+172,AC Valkanela - Uvala Valkanela,45.16484,13.59989,Vrsar,Valkanela,Istarska,izvrsno,izvrsno
+173,Gortanova uvala - Sredina uvale,44.85303,13.82865,Pula,Veruda,Istarska,izvrsno,izvrsno
+174,Hotel Splendid - Ispod hotela,44.84863,13.83119,Pula,Veruda,Istarska,izvrsno,izvrsno
+175,Lungomare - Punta prema Mornaru,44.85112,13.82955,Pula,Veruda,Istarska,izvrsno,izvrsno
+176,Valsaline - Uvala F.S.,44.84981,13.83514,Pula,Veruda,Istarska,izvrsno,izvrsno
+177,Zlatne Stijene - Plaza,44.84587,13.83079,Pula,Veruda,Istarska,izvrsno,izvrsno
+178,Hotel Brioni - Ispod hotela,44.83935,13.82865,Pula,Verudela,Istarska,izvrsno,izvrsno
+179,Hotel Histria - Ispod hotela,44.83545,13.84157,Pula,Verudela,Istarska,izvrsno,izvrsno
+180,Hotel Park - Ispod hotela,44.83474,13.83006,Pula,Verudela,Istarska,izvrsno,izvrsno
+181,Punta Verudela - Kod aquagana,44.83452,13.8372,Pula,Verudela,Istarska,izvrsno,izvrsno
+182,Uvala Sv. Ivan - Plaza Ambrela,44.83997,13.83119,Pula,Verudela,Istarska,izvrsno,izvrsno
+183,Verudela - Svjetionik,44.83323,13.83188,Pula,Verudela,Istarska,izvrsno,izvrsno
+184,AC Vestar - Sjeverna strana uvale,45.05051,13.68698,Rovinj,Vetar,Istarska,izvrsno,izvrsno
+185,AC Vestar - Uvala sredina,45.04937,13.68765,Rovinj,Vetar,Istarska,izvrsno,izvrsno
+186,TN Villas Rubin - Ispod Zabavnog centra,45.06202,13.66121,Rovinj,Villas Rubin,Istarska,izvrsno,izvrsno
+187,TN Villas Rubin - Mali molo,45.06432,13.65756,Rovinj,Villas Rubin,Istarska,izvrsno,izvrsno
+188,AC Orsera - Plaza Vala,45.15595,13.6067,Vrsar,Vrsar,Istarska,izvrsno,izvrsno
+189,AC Portosole - Uvala Brizine,45.14293,13.59963,Vrsar,Vrsar,Istarska,izvrsno,izvrsno
+190,Montraker - Montraker,45.15254,13.59726,Vrsar,Vrsar,Istarska,izvrsno,izvrsno
+191,TN Belveder - Hotel Panorama,45.14553,13.5968,Vrsar,Vrsar,Istarska,izvrsno,izvrsno
+192,Val de la fontana - Gradska plaza,45.15445,13.60325,Vrsar,Vrsar,Istarska,izvrsno,izvrsno
+193,Zambratija - Molo,45.47131,13.50691,Umag,Zambratija,Istarska,izvrsno,izvrsno
+194,AC Bijela uvala - Juzni dio,45.1881,13.58822,Funtana,Zelena laguna,Istarska,izvrsno,izvrsno
+195,AC Bijela uvala - Sjeverni dio,45.1898,13.58702,Funtana,Zelena laguna,Istarska,izvrsno,izvrsno
+196,AC Bijela uvala - Uvala Crljena zemlja,45.18512,13.58906,Funtana,Zelena laguna,Istarska,izvrsno,izvrsno
+197,AC Zelena Laguna - Plaza,45.19392,13.58311,Funtana,Zelena laguna,Istarska,izvrsno,izvrsno
+198,Hotel Delfin - Ispod hotela,45.19533,13.58098,Funtana,Zelena laguna,Istarska,izvrsno,izvrsno
+199,Debeli rt - Plaza,45.19842,13.57942,Poreč,Zelena laguna,Istarska,izvrsno,izvrsno
+200,Hotel Parentium - Ispod hotela,45.20633,13.58719,Poreč,Zelena laguna,Istarska,izvrsno,izvrsno
+201,Hotel Parentium - Restoran Villa Romana,45.20284,13.5864,Poreč,Zelena laguna,Istarska,izvrsno,izvrsno
+202,Hoteli Lotos - Ispod hotela,45.20117,13.58826,Poreč,Zelena laguna,Istarska,izvrsno,izvrsno
+203,Cres - Vila Riviera,44.95637119900423,14.404900074005127,Cres,Cres,Primorsko-goranska,izvrsno,izvrsno
+204,Porozina - plaza,45.13573680294561,14.28971529006958,Cres,Cres,Primorsko-goranska,izvrsno,izvrsno
+205,Valun - plaza,44.903258131516175,14.363594055175781,Cres,Cres,Primorsko-goranska,izvrsno,izvrsno
+206,Hotel Marina - plaza,45.163052321648806,14.710135459899902,Crikvenica,Crikvenica,Primorsko-goranska,izvrsno,izvrsno
+207,Plaza Balustrada,45.1741576781254,14.6864336747528,Crikvenica,Crikvenica,Primorsko-goranska,izvrsno,izvrsno
+208,Zagori kupaliste - istok,45.130438649691385,14.766268730163574,Novi Vinodolski,Crikvenica,Primorsko-goranska,izvrsno,izvrsno
+209,Klimno - mali Skojic,45.15975577,14.62653841,Dobrinj,Krk,Primorsko-goranska,izvrsno,izvrsno
+210,Silo - plaza Pecine,45.14733083,14.66755322,Dobrinj,Krk,Primorsko-goranska,izvrsno,izvrsno
+211,Pinezici - plaza,45.0399535,14.47353397,Krk,Krk,Primorsko-goranska,izvrsno,izvrsno
+212,Plaza kampa Glavotok,45.0959195,14.44224166,Krk,Krk,Primorsko-goranska,izvrsno,izvrsno
+213,Porat - hotel Pinia,45.12479179029764,14.49098825454712,Malinska,Krk,Primorsko-goranska,izvrsno,izvrsno
+214,Buffet Riva,45.2109252457411,14.549321866245,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+215,Hotel Adriatic - plaza,45.215809336783,14.5505558061223,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+216,Kraj uvale Omišsalj,45.2085594687948,14.5494889954332,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+217,Mariborsko odmaraliste,45.2244097042932,14.5494220553632,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+218,Naselje Sjever,45.2191925745082,14.5506892703427,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+219,Uvala Mali Kijac,45.2278755249497,14.5461563262093,Omišalj,Krk,Primorsko-goranska,izvrsno,izvrsno
+220,Plaza Hotela Jadran,45.166724860631,14.5441880039376,"Omiššalj, Njivice",Krk,Primorsko-goranska,izvrsno,izvrsno
+221,Stara Baska - kamp,44.96515471056169,14.674590826034546,Punat,Krk,Primorsko-goranska,izvrsno,izvrsno
+222,Stara Baska - naselje,44.95405173278521,14.68921959400177,Punat,Krk,Primorsko-goranska,izvrsno,izvrsno
+223,Vrbnik - plaza Zgribnica,45.07601653,14.67912069,Vrbnik,Krk,Primorsko-goranska,izvrsno,izvrsno
+224,AK Poljana - plaza,44.5572860296766,14.4453265373645,Mali Lošinj,Mali Lošinj,Primorsko-goranska,izvrsno,izvrsno
+225,Cikat - uvala Blatina,44.530841008524725,14.451398849487305,Mali Lošinj,Mali Lošinj,Primorsko-goranska,izvrsno,izvrsno
+226,Srebrna uvala,44.54188037,14.44403925,Mali Lošinj,Mali Lošinj,Primorsko-goranska,izvrsno,izvrsno
+227,Medveja - kraj plaze,45.2689065629372,14.269952774047852,Lovran,Opatija,Primorsko-goranska,izvrsno,izvrsno
+228,Rajska plaza - kraj,44.8217082062708,14.7451233259988,Lopar,Rab,Primorsko-goranska,izvrsno,izvrsno
+229,Rajska plaza - pocetak,44.8189862733854,14.7400951492512,Lopar,Rab,Primorsko-goranska,izvrsno,izvrsno
+230,Barbat - istok,44.72783281640604,14.808669090270996,Rab,Rab,Primorsko-goranska,izvrsno,izvrsno
+231,Barbat - sredina,44.73652168167131,14.79682445526123,Rab,Rab,Primorsko-goranska,izvrsno,izvrsno
+232,Barbat - zapad,44.74316702027063,14.789142608642578,Rab,Rab,Primorsko-goranska,izvrsno,izvrsno
+233,Pudarica - javna plaza,44.7069252,14.83126964,Rab,Rab,Primorsko-goranska,izvrsno,izvrsno
+234,Baškarac - uvala Dobra,45.28497227159632,14.578213691711426,Kraljevica,Rijeka,Primorsko-goranska,izvrsno,izvrsno
+235,Uvala Crisnjeva,45.24697496731469,14.584136009216309,Kraljevica,Rijeka,Primorsko-goranska,izvrsno,izvrsno
+236,Glavanovo istok,45.3152111521185,14.4687727728876,Rijeka,Rijeka,Primorsko-goranska,izvrsno,izvrsno
+237,Glavanovo zapad,45.3154111152885,14.4679729115691,Rijeka,Rijeka,Primorsko-goranska,izvrsno,izvrsno
+238,Baska - kraj plaze,44.9597377688978,14.750264723461,Baška,,Primorsko-goranska,izvrsno,izvrsno
+239,Baska - plaza izvan lukobrana,44.9685438823064,14.7628482912122,Baška,,Primorsko-goranska,izvrsno,izvrsno
+240,Baska - pocetak plaze,44.9682097574462,14.7541539386159,Baška,,Primorsko-goranska,izvrsno,izvrsno
+241,Baska - Rt Kricin,44.9662376757973,14.7692092059977,Baška,,Primorsko-goranska,izvrsno,izvrsno
+242,Baska - uvala Bunculuka,44.9672097743286,14.7721540057166,Baška,,Primorsko-goranska,izvrsno,izvrsno
+243,Baska - Zablace,44.9636550245455,14.751569980253,Baška,,Primorsko-goranska,izvrsno,izvrsno
+244,AK Kovacine,44.9610740511433,14.3907327432136,Cres,,Primorsko-goranska,izvrsno,izvrsno
+245,Cres - ispod zabavnog centra,44.9574909194209,14.3987607737122,Cres,,Primorsko-goranska,izvrsno,izvrsno
+246,Cres - kod Sv. Nikole,44.9570187343595,14.4007611168615,Cres,,Primorsko-goranska,izvrsno,izvrsno
+247,Kupaliste Grabar,44.9531576211097,14.4132051168754,Cres,,Primorsko-goranska,izvrsno,izvrsno
+248,Martinscica - Centar,44.8177955916597,14.3510910068881,Cres,,Primorsko-goranska,izvrsno,izvrsno
+249,Martinscica - pod Stalicom,44.8145725400295,14.3596192695058,Cres,,Primorsko-goranska,izvrsno,izvrsno
+250,Martinscica - punta Zaglav,44.8061004273327,14.3628689477018,Cres,,Primorsko-goranska,izvrsno,izvrsno
+251,Martinscica - Veli Zal,44.8169615393915,14.3555910698399,Cres,,Primorsko-goranska,izvrsno,izvrsno
+252,Miholascica - plaza,44.8038785479774,14.3668407488074,Cres,,Primorsko-goranska,izvrsno,izvrsno
+253,Rt Kovacine,44.9593238301219,14.3906498095869,Cres,,Primorsko-goranska,izvrsno,izvrsno
+254,Rt uvale Slatina,44.82055655,14.33634741,Cres,,Primorsko-goranska,izvrsno,izvrsno
+255,Slatina - uvala Tiha,44.8164618813566,14.3418969428766,Cres,,Primorsko-goranska,izvrsno,izvrsno
+256,Stara Gavza - plaza,44.9695740609009,14.3913162031685,Cres,,Primorsko-goranska,izvrsno,izvrsno
+257,Uvala Drazica,44.9525188390224,14.4035389987872,Cres,,Primorsko-goranska,izvrsno,izvrsno
+258,Uvala Kimen,44.9585739653122,14.3979268836306,Cres,,Primorsko-goranska,izvrsno,izvrsno
+259,Uvala Slatina,44.82311821,14.33757612,Cres,,Primorsko-goranska,izvrsno,izvrsno
+260,Glavna plaza istok-zal kod male luc.,45.1761578645146,14.6844616821666,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+261,Glavna plaza sredina,45.1780738941422,14.6827678170826,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+262,Glavna plaza zapad,45.1814349025095,14.6791567272418,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+263,Glavna plaza-kod skakaonice,45.1808240144688,14.6799617697843,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+264,Hotel Amabilis - plaza,45.1620185179327,14.7122119007381,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+265,Hotel Internacional,45.1716577949854,14.6901007222066,Crikvenica,,Primorsko-goranska,izvrsno,dobro
+266,Hotel Kastel,45.1707125912235,14.6941289545533,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+267,Hotel Omorika,45.1870469553301,14.6737118727055,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+268,Jadranovo - uvala Grabova,45.23174474585955,14.61108684539795,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+269,Jadranovo - uvala Havisce,45.2186588765182,14.6146567986932,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+270,Jadranovo - uvala kod tunere,45.2250478559696,14.6119897541011,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+271,Kacjak-istok- betonirani plato,45.2003804648457,14.6536287642505,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+272,Kacjak-zapadna uvala pocetak,45.2035745431329,14.6480178951872,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+273,Lanterna - plaza,45.191556965677016,14.666522741317749,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+274,Odmaraliste Stoimena,45.16833231612854,14.700651168823242,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+275,Odmaraliste zeljezare Jesenice,45.1893800458261,14.6700177738578,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+276,Pazdehova,45.19316744156968,14.664881229400635,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+277,Plaza Bazeni hotela Varazdin,45.1599074801717,14.7144339833415,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+278,Plaza Podvorska,45.1694076862363,14.6977399714459,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+279,Plaza Thalassotherapia,45.1858520340764,14.6759897248864,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+280,Plivaliste,45.1725736598896,14.688017781927,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+281,Rt Kacjak,45.2013524562639,14.6527679410131,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+282,Selce gostiona Toc,45.1587403870002,14.7164070409311,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+283,Selce pl. Poli mora Hotel Slaven,45.154157468749,14.7160459552591,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+284,Uvala Slana,45.1511293255106,14.7212119847589,Crikvenica,,Primorsko-goranska,izvrsno,izvrsno
+285,Cizici,45.1566583026051,14.5991556146905,Dobrinj,,Primorsko-goranska,izvrsno,izvrsno
+286,Klimno,45.15659917,14.61968601,Dobrinj,,Primorsko-goranska,izvrsno,izvrsno
+287,Soline,45.15091329,14.60962504,Dobrinj,,Primorsko-goranska,izvrsno,izvrsno
+288,Kostrena - Ronilacki klub,45.3022769615976,14.4863728464726,Kostrena,,Primorsko-goranska,izvrsno,izvrsno
+289,Kostrena - Stara voda,45.2935267918118,14.5013897038394,Kostrena,,Primorsko-goranska,izvrsno,izvrsno
+290,Kostrena - uvala Svezanj,45.2970609106289,14.4939896105072,Kostrena,,Primorsko-goranska,izvrsno,izvrsno
+291,Kostrena - Zurkovo,45.3062941066108,14.4870567806325,Kostrena,,Primorsko-goranska,izvrsno,izvrsno
+292,Baškarac kupaliste na ulazu,45.2815928310963,14.5797074421219,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+293,Carevo,45.2794601368836,14.5647572262847,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+294,Plaza Ostro - kraj,45.2671257504814,14.5614732059005,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+295,Plaza Ostro - pocetak,45.2717259318896,14.5591902056179,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+296,Sansovo,45.2807760404312,14.5743403182707,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+297,Uvala Scott - ispod hotela,45.2539425579142,14.5751570338173,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+298,Uvala Scott - kod tobogana,45.253059495845,14.5754897445296,Kraljevica,,Primorsko-goranska,izvrsno,izvrsno
+299,AK Jezevac,45.018796204096,14.5727920319337,Krk,,Primorsko-goranska,izvrsno,izvrsno
+300,FKK Politin,45.02143744601588,14.59033727645874,Krk,,Primorsko-goranska,izvrsno,izvrsno
+301,Ispod Hotela Koralj,45.02382622819746,14.58362102508545,Krk,,Primorsko-goranska,izvrsno,izvrsno
+302,Kupaliste Drazica,45.0242960517909,14.5802081222149,Krk,,Primorsko-goranska,izvrsno,izvrsno
+303,Kupaliste Dunat,45.0385457890806,14.6202366833487,Krk,,Primorsko-goranska,izvrsno,izvrsno
+304,Plaza Plav,45.0163789473371,14.5677356429338,Krk,,Primorsko-goranska,izvrsno,izvrsno
+305,Plaza Porporela,45.0218790920741,14.5748189064951,Krk,,Primorsko-goranska,izvrsno,izvrsno
+306,Portopizana,45.0250731343405,14.5768189561782,Krk,,Primorsko-goranska,izvrsno,izvrsno
+307,Uvala Malo more,45.0346838502648,14.6148198285585,Krk,,Primorsko-goranska,izvrsno,izvrsno
+308,Uvala Tomazevo,45.019767755952,14.5948473165936,Krk,,Primorsko-goranska,izvrsno,izvrsno
+309,Uvala Trojna,45.0250727424897,14.6107644670259,Krk,,Primorsko-goranska,izvrsno,izvrsno
+310,Uvala Valda Gara,45.0228228690784,14.5857361293449,Krk,,Primorsko-goranska,izvrsno,izvrsno
+311,Plaza Kastelina,44.8247364383397,14.7555676669526,Lopar,,Primorsko-goranska,izvrsno,izvrsno
+312,Plaza Livacina,44.822625430083,14.7497065920467,Lopar,,Primorsko-goranska,izvrsno,izvrsno
+313,Rajska plaza - sredina,44.8197645201758,14.7415955456601,Lopar,,Primorsko-goranska,izvrsno,izvrsno
+314,Uvala Zastolac,44.832743467493465,14.755110740661621,Lopar,,Primorsko-goranska,izvrsno,izvrsno
+315,Gradsko kupaliste Lovran,45.297712888143835,14.278771877288818,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+316,Hotel Excelsior - kupaliste,45.2964955620594,14.278320264651,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+317,Hotelijerski fakultet u Iki,45.3033955685033,14.283620538049,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+318,Lovran - kupaliste Kvarner,45.2936784742018,14.278154463444,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+319,Medveja - pocetak plaze,45.27067340950201,14.270467758178711,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+320,Medveja - Uvala Cesara,45.2642783581966,14.2662369285607,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+321,Plaza Peharovo,45.2866956237005,14.2746372641421,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+322,Restoran Najade,45.2897455553047,14.2774703306224,Lovran,,Primorsko-goranska,izvrsno,izvrsno
+323,AK Rapoca - ispred autokampa,44.6639595993335,14.3997002331747,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+324,AK Rapoca - plaza,44.661959480975,14.3990608743928,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+325,Biskupija - plaza,44.65685396,14.40074495,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+326,Djecja bolnica Losinj,44.524185174614,14.5028768966584,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+327,Hotela Punta - sjeverna plaza,44.5260352092928,14.4946265868903,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+328,Lopari - kraj plaze,44.6852657953519,14.3977004412853,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+329,Lopari - pocetak plaze,44.6779875668585,14.3992283050724,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+330,Naselje Krsko - plaza,44.6516814806187,14.4001169317589,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+331,Nerezine - samostan,44.6655986251953,14.3987001251546,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+332,Osor - svjetionik,44.6934878619396,14.391145418006,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+333,Plaza Barakuda,44.521918004986,14.5087097611804,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+334,Plaza Hotela Punta,44.5258021359548,14.4972936431283,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+335,Plaza Sv. Martin,44.5342224850196,14.4772854616563,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+336,Plaza Zagazinjine,44.5383026861964,14.4718935193625,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+337,Punta Leva,44.5240020975371,14.4998939381702,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+338,Suncana uvala - FKK,44.5172263118307,14.4620183855903,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+339,Suncana uvala - Hotel Vespera,44.5197526290444,14.4579433372225,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+340,Suncana uvala - Ht. Vespera i V.zal,44.5216354046519,14.4559093674721,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+341,Suncana uvala - Mali Zal,44.523235634568,14.4559762940996,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+342,Suncana uvala - Veli Zal,44.5232024445014,14.453226126926,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+343,Suncana uvala - Zalic,44.5182352998698,14.4603763468985,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+344,Uvala Bucanje,44.6482654598818,14.3989778768057,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+345,Uvala Cikat - AK Cikat,44.5347357933126,14.4445094215754,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+346,Uvala Cikat - AK Kredo,44.5339526048738,14.4452764141741,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+347,Uvala Cikat - Hotel Alhambra,44.529935692829,14.4561263457062,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+348,Uvala Cikat - zabavni centar,44.5311357813799,14.4532435776242,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+349,Uvala Galboka,44.654098325861,14.4005338109327,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+350,Uvala Valdarke,44.52892302,14.48367449,Mali Lošinj,,Primorsko-goranska,izvrsno,izvrsno
+351,Malin Draga,45.1215246091699,14.5218199948481,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+352,Malinska - plaza Rupa,45.124708586534,14.5242201835201,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+353,Odmaraliste zeljezare Sisak,45.1202416686325,14.5176038956045,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+354,Plaza Haludovo,45.1305085550309,14.5253870985799,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+355,Porat,45.119416914297766,14.498605728149414,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+356,Punta Cuf - Ribarsko selo,45.137708748473,14.5264045362173,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+357,Ribarsko selo,45.1346917275015,14.5257704021197,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+358,Uvala Rova,45.1185916545171,14.515287070826,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+359,Uvala Vantacici,45.1181247480327,14.5058370426263,Malinska,,Primorsko-goranska,izvrsno,izvrsno
+360,M. Draga - kraj plaze,45.2354622861642,14.2553190235078,Mošćenička Draga,,Primorsko-goranska,izvrsno,izvrsno
+361,M. Draga - pocetak plaze,45.2364120635118,14.2558861688725,Mošćenička Draga,,Primorsko-goranska,izvrsno,izvrsno
+362,Sv. Ivan - plaza,45.2298282387382,14.2551190376321,Mošćenička Draga,,Primorsko-goranska,izvrsno,izvrsno
+363,Bribirska obala,45.12865230422113,14.775238037109375,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+364,Klenovica plaza,45.0991556563057,14.8413234389085,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+365,Kozica,45.0556820683422,14.8694068392593,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+366,Kupaliste Crveni kriz,45.120906152413,14.8023792828816,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+367,Kupaliste kod tobogana,45.1232112363445,14.7940462216849,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+368,Povile - ispod bungalova na obali,45.114677519071805,14.819591045379639,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+369,Povile - iza bungalova,45.1150998892271,14.8167123649372,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+370,Sibinj,45.0452377913631,14.8764615956667,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+371,Smokvica,45.0855553597587,14.8497400739331,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+372,Uvala Novi Vinodolski,45.12489999,14.78662705,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+373,Zagori kupaliste - zapad,45.131267679366,14.7636569070239,Novi Vinodolski,,Primorsko-goranska,izvrsno,izvrsno
+374,AK Njivice,45.1705249906944,14.5424882628586,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+375,Beli kamik,45.168408838552,14.544705114945,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+376,Miramare,45.1646088707684,14.5396050079682,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+377,Rosulje,45.1573088346843,14.5335206783845,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+378,Uvala Dumboka,45.174892089656,14.5397553146357,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+379,Uvala Kijac,45.1530588994979,14.5329379627024,Omišalj,,Primorsko-goranska,izvrsno,izvrsno
+380,Hotel Adriatic - kupaliste,45.3263789328709,14.3010551591987,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+381,Hotel Kristal - kupaliste,45.3290128251405,14.3025214243517,Opatija,,Primorsko-goranska,dobro,nezadovoljavajuće
+382,Hotel Kvarner - kupaliste,45.3338958825548,14.3088553741464,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+383,Hotel Milenij - kupaliste,45.3327459550572,14.3070385102821,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+384,Hotel Miramar - plaza,45.3407289356602,14.3138386381892,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+385,Ika - plaza,45.3055787926114,14.282870485315,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+386,Ispod Opcine,45.344795858446,14.3184218792496,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+387,Kupaliste Icici - kraj,45.3118626988452,14.2874380026195,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+388,Kupaliste Icici - pocetak,45.3123287548231,14.2884375941616,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+389,Kupaliste Lido,45.3341128082347,14.3108554164887,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+390,Kupaliste Puntica,45.3458289414996,14.3198889665113,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+391,Kupaliste Slatina - kraj,45.3312458617562,14.3041211513038,Opatija,,Primorsko-goranska,izvrsno,nezadovoljavajuće
+392,Kupaliste Slatina -sredina,45.3320787626576,14.3056385523467,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+393,Kupaliste Tomasevac,45.338912978402,14.311788768859,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+394,Lipovica,45.3436288920037,14.3165387496541,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+395,Plaza kod Hotela Giorgio II,45.317545918642,14.2921551358076,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+396,Punta Kolova,45.3187128560518,14.2957210106761,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+397,Villa Ariston,45.3197128759085,14.2974710195253,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+398,Volosko - plaza Crnikovica,45.3507628883924,14.3235217521836,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+399,Volosko - vaterpolo igraliste,45.349328806608,14.3221558127724,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+400,Volosko - Veli mul,45.3476629362827,14.3220718480569,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+401,Zonovo,45.3241956322904,14.3002383165032,Opatija,,Primorsko-goranska,izvrsno,izvrsno
+402,AK Konobe,44.9907113799789,14.6266800636513,Punat,,Primorsko-goranska,izvrsno,izvrsno
+403,AK Pila - kupaliste,45.01465226,14.62419595,Punat,,Primorsko-goranska,izvrsno,izvrsno
+404,Punta debij,45.0110725117355,14.6215143897147,Punat,,Primorsko-goranska,izvrsno,izvrsno
+405,Barisici,44.7624578208985,14.7499006453191,Rab,,Primorsko-goranska,izvrsno,izvrsno
+406,Gradska plaza,44.7557635379088,14.7591774903432,Rab,,Primorsko-goranska,izvrsno,izvrsno
+407,Gusici,44.7657918951869,14.742955557456,Rab,,Primorsko-goranska,izvrsno,izvrsno
+408,Kampor - plaza Mel sredina,44.78658025,14.70609222,Rab,,Primorsko-goranska,izvrsno,izvrsno
+409,Plaza Petrac,44.7485684591394,14.7746773753105,Rab,,Primorsko-goranska,izvrsno,izvrsno
+410,Rt Artic,44.7466242453451,14.7815397155783,Rab,,Primorsko-goranska,izvrsno,izvrsno
+411,Samostan Sv. Antuna,44.7532913414513,14.761927577583,Rab,,Primorsko-goranska,izvrsno,izvrsno
+412,Suha Punta - Hotel Carolina,44.7549577688175,14.7225658513408,Rab,,Primorsko-goranska,izvrsno,izvrsno
+413,Suha Punta - Hotel Eva,44.7596798840372,14.7282052709254,Rab,,Primorsko-goranska,izvrsno,izvrsno
+414,Suha Punta - izmedju Ht. Caroline i rest.,44.7569027591526,14.7265113457573,Rab,,Primorsko-goranska,izvrsno,izvrsno
+415,Suha Punta - usis za bazen,44.7565967577292,14.7248720317275,Rab,,Primorsko-goranska,izvrsno,izvrsno
+416,Suha Punta - Veli zal,44.7569297713684,14.7209001417686,Rab,,Primorsko-goranska,izvrsno,izvrsno
+417,Skver - plaza,44.76073552345,14.7527893251658,Rab,,Primorsko-goranska,izvrsno,izvrsno
+418,Uvala Padova 1,44.7552074843882,14.7659274425847,Rab,,Primorsko-goranska,izvrsno,izvrsno
+419,Uvala Padova 2,44.7530685478313,14.7685946433018,Rab,,Primorsko-goranska,izvrsno,izvrsno
+420,Uvala Padova 3,44.750596473261,14.7727334497765,Rab,,Primorsko-goranska,izvrsno,izvrsno
+421,Bivio - Dom umirovljenika,45.3423124405914,14.362372165418,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+422,"Bivio - Kostanj, plaza za invalide",45.3493126164586,14.3410718538153,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+423,Bivio - plaza,45.3447456222856,14.3556560479013,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+424,Bivio - Rekreacijski centar,45.3462454983403,14.3484059647496,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+425,Bivio - Skalete,45.3449785902944,14.3526060774526,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+426,Grcevo,45.3119272713638,14.4726897970157,Rijeka,,Primorsko-goranska,nezadovoljavajuće,dobro
+427,Kantrida - bazen istok,45.34014082980895,14.37161922454834,Rijeka,,Primorsko-goranska,dobro,izvrsno
+428,Kantrida - bazen zapad,45.340744127544156,14.370031356811523,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+429,Kantrida - Djecja bolnica,45.3411953017866,14.3661391406821,Rijeka,,Primorsko-goranska,izvrsno,dobro
+430,Kantrida - istok,45.3374950606726,14.3830724132459,Rijeka,,Primorsko-goranska,zadovoljavajuće,nezadovoljavajuće
+431,Kantrida - Rekreacijski centar 3. Maj,45.3369451628283,14.3859062373777,Rijeka,,Primorsko-goranska,dobro,zadovoljavajuće
+432,Kantrida - Vila Nora,45.3396622903906,14.3737891324484,Rijeka,,Primorsko-goranska,dobro,dobro
+433,Kantrida - zapad,45.3376452907772,14.3818390806376,Rijeka,,Primorsko-goranska,zadovoljavajuće,zadovoljavajuće
+434,Kupaliste Hotela Jadran,45.3183612168026,14.4637226259689,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+435,Preluk - istok,45.3510956036083,14.3360389985487,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+436,Preluk - sredina,45.351712773128,14.3319388528137,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+437,Preluk - zapad,45.3535458131735,14.3313719412575,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+438,Ruzicevo,45.313244077703,14.4704729027803,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+439,Sablicevo,45.317494254284,14.4654399270028,Rijeka,,Primorsko-goranska,izvrsno,izvrsno
+440,Karlobag Gradska,44.524140713921106,15.074872970581055,Karlobag,Karlobag,Ličko-senjska,izvrsno,izvrsno
+441,Skver,44.99283257188854,14.899005889892578,Senj,Senj,Ličko-senjska,izvrsno,izvrsno
+442,Hotel Zagreb,44.52912776452625,15.06676197052002,Karlobag,,Ličko-senjska,izvrsno,izvrsno
+443,Ribarica,44.55460706841882,15.033996105194092,Karlobag,,Ličko-senjska,izvrsno,izvrsno
+444,Bračnicevica,44.5323333333333333333333333333333333333,14.8910666666666666666666666666666666667,Novalja,,Ličko-senjska,izvrsno,izvrsno
+445,Caska,44.548276517890585,14.91619348526001,Novalja,,Ličko-senjska,izvrsno,izvrsno
+446,Kustici,44.528684148491486,14.960846900939941,Novalja,,Ličko-senjska,izvrsno,izvrsno
+447,Novalja Lokunje,44.55131954962094,14.882140159606934,Novalja,,Ličko-senjska,izvrsno,izvrsno
+448,Novalja Ploce,44.5626666666666666666666666666666666667,14.86835,Novalja,,Ličko-senjska,izvrsno,izvrsno
+449,Stara Novalja (Trincel),44.5894833333333333333333333333333333333,14.8799166666666666666666666666666666667,Novalja,,Ličko-senjska,izvrsno,izvrsno
+450,Uvala Baba,44.56738839978756,14.865789413452148,Novalja,,Ličko-senjska,izvrsno,izvrsno
+451,Uvala Rucica,44.50068361334893,15.021014213562011,Novalja,,Ličko-senjska,izvrsno,izvrsno
+452,Uvala Zrce 1,44.541608816848324,14.914712905883789,Novalja,,Ličko-senjska,izvrsno,izvrsno
+453,Uvala Zrce 2,44.53917705693438,14.915056228637695,Novalja,,Ličko-senjska,izvrsno,izvrsno
+454,Zubovici,44.52213659480131,14.975953102111816,Novalja,,Ličko-senjska,izvrsno,izvrsno
+455,Draga I,44.9989,14.899,Senj,,Ličko-senjska,izvrsno,izvrsno
+456,Djiga -  Grad Senj,44.989630607368305,14.897396564483643,Senj,,Ličko-senjska,izvrsno,izvrsno
+457,Jablanac (Banja -  Grad Senj),44.70535,14.8964333333333333333333333333333333333,Senj,,Ličko-senjska,izvrsno,izvrsno
+458,Lukovo Otocko,44.85485,14.8911833333333333333333333333333333333,Senj,,Ličko-senjska,izvrsno,izvrsno
+459,Starigrad,44.7979,14.8815333333333333333333333333333333333,Senj,,Ličko-senjska,izvrsno,izvrsno
+460,Uvala Klada,44.8176166666666666666666666666666666667,14.88535,Senj,,Ličko-senjska,izvrsno,izvrsno
+461,Plaza Punta Rozica,44.06527777777777777777777777777777777778,15.28138888888888888888888888888888888889,Bibinje,Bibinje,Zadarska,izvrsno,izvrsno
+462,Bosana,43.9455577868991,15.443494319915771,Biograd n/m,Biograd n/m,Zadarska,izvrsno,izvrsno
+463,Drazica,43.93277777777777777777777777777777777778,15.44583333333333333333333333333333333333,Biograd n/m,Biograd n/m,Zadarska,izvrsno,izvrsno
+464,Primorje,43.94833333333333333333333333333333333333,15.44222222222222222222222222222222222222,Biograd n/m,Biograd n/m,Zadarska,izvrsno,izvrsno
+465,Soline,43.9294572134995,15.450178384780884,Biograd n/m,Biograd n/m,Zadarska,izvrsno,izvrsno
+466,Uvala Bozavcica,44.1378856107332,14.907996654510498,Sali,Boava (Dugi Otok),Zadarska,izvrsno,izvrsno
+467,Brguljski Zaljev,44.22722222222222222222222222222222222222,14.83416666666666666666666666666666666667,Molat,Brgulje (Otok Molat),Zadarska,izvrsno,izvrsno
+468,Obalni Dio,43.99138888888888888888888888888888888889,15.32611111111111111111111111111111111111,Pašman,Dobropoljana,Zadarska,izvrsno,izvrsno
+469,Plaza,44.13190455,15.61294019,Benkovac,Donji Karin,Zadarska,izvrsno,izvrsno
+470,Uvala Dugovaca,43.89083333333333333333333333333333333333,15.53361111111111111111111111111111111111,Pakoštane,Drage,Zadarska,izvrsno,izvrsno
+471,Uvala Saharun,44.13380461775365,14.87274169921875,Sali-Verunić,Dugi Otok,Zadarska,izvrsno,izvrsno
+472,Mjesno Kupaliste (Uvala Siroka),44.27194444444444444444444444444444444444,14.76472222222222222222222222222222222222,Ist,Ist,Zadarska,izvrsno,izvrsno
+473,Uvala Batalaza,44.06277777777777777777777777777777777778,15.21027777777777777777777777777777777778,Kali,Kali,Zadarska,izvrsno,izvrsno
+474,Perustine,44.15861111111111111111111111111111111111,15.19361111111111111111111111111111111111,Zadar,Koino,Zadarska,izvrsno,izvrsno
+475,Sv. Bartul,44.17361111111111111111111111111111111111,15.17361111111111111111111111111111111111,Zadar,Koino,Zadarska,izvrsno,izvrsno
+476,Meka Draga,44.184512094297524,15.604941844940185,Obrovac,Kruščevo,Zadarska,izvrsno,izvrsno
+477,Uvala Bok,43.98333333333333333333333333333333333333,15.09944444444444444444444444444444444444,Sali,Luka (Dugi Otok),Zadarska,izvrsno,izvrsno
+478,Dolinje,44.03666666666666666666666666666666666667,15.12944444444444444444444444444444444444,I,Mali Iž (Otok Iž),Zadarska,izvrsno,izvrsno
+479,Uvala Mandre,44.477324246112296,14.918360710144043,Kolan,Mandre,Zadarska,izvrsno,izvrsno
+480,Obalni Potez,44.21888888888888888888888888888888888889,15.54222222222222222222222222222222222222,Jasenice,Maslenica,Zadarska,izvrsno,izvrsno
+481,Uvala Lucina,44.21166666666666666666666666666666666667,14.87,Molat,Molat,Zadarska,izvrsno,izvrsno
+482,Uvala Vruljine,43.97611111111111111111111111111111111111,15.34861111111111111111111111111111111111,Pašman,Neviane,Zadarska,izvrsno,izvrsno
+483,Kraljicina Plaza,44.251962054209464,15.175530910491943,Nin,Nin,Zadarska,izvrsno,izvrsno
+484,Zdrijac,44.24755079651135,15.19357681274414,Nin,Nin,Zadarska,izvrsno,izvrsno
+485,Sveti Nikola,44.19,15.54638888888888888888888888888888888889,Novigrad,Novigrad,Zadarska,izvrsno,izvrsno
+486,"Olib, Mjesno Kupaliste",44.37837966335955,14.77534532546997,Olib,Olib,Zadarska,izvrsno,izvrsno
+487,Sveti Duh,44.52127985108867,14.946727752685546,Kolan,Otok Pag,Zadarska,izvrsno,izvrsno
+488,Uvala Krijal,44.33611111111111111111111111111111111111,14.59527777777777777777777777777777777778,Premuda,Otok Premuda,Zadarska,izvrsno,izvrsno
+489,Mjesno Kupaliste,44.15222222222222222222222222222222222222,15.03111111111111111111111111111111111111,Preko,Otok Rivanj,Zadarska,izvrsno,izvrsno
+490,Uvala Kablin,44.13805555555555555555555555555555555556,15.01027777777777777777777777777777777778,Preko,Otok Sestrunj,Zadarska,izvrsno,izvrsno
+491,Zalic,44.37463741714718,14.691145420074463,Silba,Otok Silba,Zadarska,izvrsno,izvrsno
+492,Zelena Punta - Jug,44.03444444444444444444444444444444444444,15.2525,Kukljica,Otok Ugljan,Zadarska,izvrsno,izvrsno
+493,Jaz,44.08444444444444444444444444444444444444,15.18444444444444444444444444444444444444,Preko,Otok Ugljan,Zadarska,izvrsno,izvrsno
+494,Otocic Galovac,44.08416666666666666666666666666666666667,15.18833333333333333333333333333333333333,Preko,Otok Ugljan,Zadarska,izvrsno,izvrsno
+495,Sveti Petar,44.09166666666666666666666666666666666667,15.18638888888888888888888888888888888889,Preko,Otok Ugljan,Zadarska,izvrsno,izvrsno
+496,Jadro,44.29694444444444444444444444444444444444,15.08666666666666666666666666666666666667,Vir,Otok Vir,Zadarska,izvrsno,izvrsno
+497,Radovanjica,44.2975,15.0925,Vir,Otok Vir,Zadarska,izvrsno,izvrsno
+498,Plaza Prosika,44.44166666666666666666666666666666666667,15.04722222222222222222222222222222222222,Pag,Pag,Zadarska,izvrsno,izvrsno
+499,Pilatusa Madona,43.9143029326513,15.486752986907959,Pakoštane,Pakoštane,Zadarska,izvrsno,izvrsno
+500,Punta,43.90722222222222222222222222222222222222,15.50055555555555555555555555555555555556,Pakoštane,Pakoštane,Zadarska,izvrsno,izvrsno
+501,Uvala Jasenica,43.95194444444444444444444444444444444444,15.38638888888888888888888888888888888889,Pašman,Pašman,Zadarska,izvrsno,izvrsno
+502,Punta Skala (Obiteljske Kuce),44.18944444444444444444444444444444444444,15.1525,Zadar,Petrane,Zadarska,izvrsno,izvrsno
+503,Kraj Bračnimirove Obale,44.20944444444444444444444444444444444444,15.48222222222222222222222222222222222222,Posedarje,Posedarje,Zadarska,izvrsno,izvrsno
+504,Uvala Loznica,44.25368343088018,15.126113891601562,Privlaka,Privlaka,Zadarska,izvrsno,izvrsno
+505,Uvala Lokvina,44.03694444444444444444444444444444444444,15.055,Rava,Rava (Otok Rava),Zadarska,izvrsno,izvrsno
+506,Strazica,44.28284695587085,15.351033210754394,Ražanac,Ražanac,Zadarska,izvrsno,izvrsno
+507,Uvala Rovanjska,44.25083333333333333333333333333333333333,15.53638888888888888888888888888888888889,Jasenice,Rovanjska,Zadarska,izvrsno,izvrsno
+508,Uvala Plemici - Jug,44.29022005437257,15.303783416748047,Ražanac,Rtina,Zadarska,izvrsno,izvrsno
+509,Hotelsko Kupaliste Sascica,43.94055555555555555555555555555555555556,15.16138888888888888888888888888888888889,Sali,Sali (Dugi Otok),Zadarska,izvrsno,izvrsno
+510,Rt Pisak,44.27465866002572,15.476667881011963,Starigrad,Seline,Zadarska,izvrsno,izvrsno
+511,Uvala Sutorisce,44.37222222222222222222222222222222222222,14.70333333333333333333333333333333333333,Silba,Silba,Zadarska,izvrsno,izvrsno
+512,Plaza Hotel Alan,44.284598150562985,15.44827938079834,Starigrad-Paklenica,Starigrad-Paklenica,Zadarska,izvrsno,izvrsno
+513,Tustica,44.03055555555555555555555555555555555556,15.34222222222222222222222222222222222222,Sukošan,Sukošan,Zadarska,izvrsno,izvrsno
+514,Uvala Djecji Raj,44.03944444444444444444444444444444444444,15.30805555555555555555555555555555555556,Sukošan,Sukošan,Zadarska,izvrsno,izvrsno
+515,Iza Banja,43.95944444444444444444444444444444444444,15.42722222222222222222222222222222222222,Sveti Filip i Jakov,Sveti Filip i Jakov,Zadarska,izvrsno,izvrsno
+516,Obalni Potez,44.005,15.36694444444444444444444444444444444444,Sveti Filip i Jakov,Sveti Petar,Zadarska,izvrsno,izvrsno
+517,Uvala SŠimuni,44.46444444444444444444444444444444444444,14.95888888888888888888888888888888888889,Pag,Šimuni,Zadarska,izvrsno,izvrsno
+518,Studenac,43.91888888888888888888888888888888888889,15.42583333333333333333333333333333333333,Tkon,Tkon,Zadarska,izvrsno,izvrsno
+519,Uvala Duboka Kruscica,44.3528079954304,15.312666893005371,Starigrad,Tribanj,Zadarska,izvrsno,izvrsno
+520,Morovicka,43.96944444444444444444444444444444444444,15.40416666666666666666666666666666666667,Sveti Filip i Jakov,Turanj,Zadarska,izvrsno,izvrsno
+521,Sveti Jerolim,44.13361111111111111111111111111111111111,15.10555555555555555555555555555555555556,Preko,Ugljan,Zadarska,izvrsno,izvrsno
+522,Rt Korinjak,44.0536985338301,15.112541913986206,I,Veli Iž (Otok Iž),Zadarska,izvrsno,izvrsno
+523,Gradina,43.8613756625022,15.499831438064575,Pakoštane,Vrgada,Zadarska,izvrsno,izvrsno
+524,Ricina,44.28029687726776,15.209047794342041,Vrsi,Vrsi,Zadarska,izvrsno,izvrsno
+525,Arbanasi-Skola,44.10027777777777777777777777777777777778,15.24,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+526,Bazen,44.10777777777777777777777777777777777778,15.23055555555555555555555555555555555556,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+527,Borik,44.13401252421397,15.208972692489624,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+528,Diklo-Sjever,44.14972222222222222222222222222222222222,15.205,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+529,Diklovac-Sjever,44.14194444444444444444444444444444444444,15.21027777777777777777777777777777777778,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+530,Hotel Donat,44.13694444444444444444444444444444444444,15.21,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+531,Hotel Kolovare,44.10416666666666666666666666666666666667,15.23416666666666666666666666666666666667,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+532,Jadran,44.12222222222222222222222222222222222222,15.22305555555555555555555555555555555556,Zadar,Zadar,Zadarska,dobro,dobro
+533,Kolovare-Mulic,44.10638888888888888888888888888888888889,15.23222222222222222222222222222222222222,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+534,Punta Bajlo,44.09527777777777777777777777777777777778,15.24777777777777777777777777777777777778,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+535,Puntamika-Zapad,44.13333333333333333333333333333333333333,15.20444444444444444444444444444444444444,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+536,Vitrenjak,44.12777777777777777777777777777777777778,15.21277777777777777777777777777777777778,Zadar,Zadar,Zadarska,zadovoljavajuće,dobro
+537,Zgon,44.13861111111111111111111111111111111111,15.21277777777777777777777777777777777778,Zadar,Zadar,Zadarska,izvrsno,izvrsno
+538,Zapuntel -Sibinjski Rt,44.25722222222222222222222222222222222222,14.78888888888888888888888888888888888889,Molat,Zapuntel (Otok Molat),Zadarska,izvrsno,izvrsno
+539,Jaz,44.225,15.16388888888888888888888888888888888889,Nin,Zaton,Zadarska,izvrsno,izvrsno
+540,Plisa,44.21916666666666666666666666666666666667,15.16333333333333333333333333333333333333,Nin,Zaton,Zadarska,izvrsno,izvrsno
+541,Zaton H.R. 1,44.23194444444444444444444444444444444444,15.16083333333333333333333333333333333333,Nin,Zaton,Zadarska,izvrsno,izvrsno
+542,Zaton H.R. 2,44.229917832688656,15.163214206695556,Nin,Zaton,Zadarska,izvrsno,izvrsno
+543,Uvala Zverinac,44.16111111111111111111111111111111111111,14.91416666666666666666666666666666666667,Sali,Zverinac (Dugi Otok),Zadarska,izvrsno,izvrsno
+544,Uvala Svetog Luke,44.01277777777777777777777777777777777778,15.27888888888888888888888888888888888889,Pašman,Ždrelac,Zadarska,izvrsno,izvrsno
+545,Kumenat,43.92222222222222222222222222222222222222,15.45888888888888888888888888888888888889,Biograd n/m,,Zadarska,izvrsno,izvrsno
+546,"Kaprije, mjesto",43.684803180553715,15.710256099700927,Šibenik,Kaprije,Šibensko-kninska,izvrsno,izvrsno
+547,"Sepurina plaza,",43.5365560760734,15.95912218093872,Rogoznica,"Rogoznica, Lozica",Šibensko-kninska,izvrsno,izvrsno
+548,Hotel Borovnik,43.79612814894592,15.632600784301757,Tisno,Tisno,Šibensko-kninska,izvrsno,izvrsno
+549,"Zlarin, mjesto",43.6985652900827,15.832629203796386,Šibenik,Zlarin,Šibensko-kninska,izvrsno,izvrsno
+550,"Zlarin, Punta",43.70266073088685,15.833959579467773,Šibenik,Zlarin,Šibensko-kninska,izvrsno,izvrsno
+551,"Murter, Hramina",43.821972526818335,15.585200786590576,Murter Kornati,,Šibensko-kninska,izvrsno,izvrsno
+552,"Murter, Slanica",43.815779566596575,15.579192638397216,Murter Kornati,,Šibensko-kninska,izvrsno,izvrsno
+553,"Murter, Slanica  kraj",43.81653967,15.57556014,Murter Kornati,,Šibensko-kninska,izvrsno,izvrsno
+554,"Murter, Slanica-Colentum",43.81672403453942,15.578269958496093,Murter Kornati,,Šibensko-kninska,izvrsno,izvrsno
+555,"Murter, Vucigradje",43.806272122923666,15.590028762817382,Murter Kornati,,Šibensko-kninska,izvrsno,izvrsno
+556,"Pirovac, Hotel   Miran",43.822328602502004,15.657062530517578,Pirovac,,Šibensko-kninska,dobro,izvrsno
+557,"Pirovac, Lolic kraj",43.82047222222222222222222222222222222222,15.66105555555555555555555555555555555556,Pirovac,,Šibensko-kninska,izvrsno,izvrsno
+558,"Pirovac, Lolic, pocetak",43.819325114927615,15.662298202514648,Pirovac,,Šibensko-kninska,izvrsno,izvrsno
+559,"Pirovac, Lolic sredina",43.820037295750204,15.66225528717041,Pirovac,,Šibensko-kninska,izvrsno,izvrsno
+560,"Pirovac, Starine",43.815160235245905,15.672404766082763,Pirovac,,Šibensko-kninska,izvrsno,izvrsno
+561,"Pirovac, Starine kraj",43.81494444444444444444444444444444444444,15.67377777777777777777777777777777777778,Pirovac,,Šibensko-kninska,izvrsno,izvrsno
+562,Autocamp Adriatc,43.60736111111111111111111111111111111111,15.92308333333333333333333333333333333333,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+563,"Autocamp Adriatic, kraj",43.6052407504537,15.918867588043213,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+564,"Autocamp Adriatic, sredina",43.606810036550875,15.919060707092285,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+565,Hotel   Raduca,43.59229646332985,15.917580127716064,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+566,Hotel   Zora,43.5889602,15.91954012,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+567,Lokvice,43.58546579226576,15.926774740219116,Primošten,,Šibensko-kninska,dobro,izvrsno
+568,Primosten bazen,43.58975381,15.91811862,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+569,Raduca mala,43.58739487,15.92297604,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+570,Raduca velika,43.58977777777777777777777777777777777778,15.92180555555555555555555555555555555556,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+571,"Raduca velika, izlaz",43.59106676,15.92097842,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+572,"Raduca velika, pocetak",43.58985604,15.92249764,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+573,"Raduca velika, sredina",43.59043151061995,15.921281576156616,Primošten,,Šibensko-kninska,izvrsno,izvrsno
+574,Gornji muli,43.52419444444444444444444444444444444444,15.97383333333333333333333333333333333333,Rogoznica,,Šibensko-kninska,izvrsno,izvrsno
+575,Racice,43.52580555555555555555555555555555555556,15.97302777777777777777777777777777777778,Rogoznica,,Šibensko-kninska,izvrsno,izvrsno
+576,Skradin mjesto,43.81704515,15.92778492,Skradin,,Šibensko-kninska,izvrsno,zadovoljavajuće
+577,Autocamp   Solaris,43.69752975079823,15.878119468688964,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+578,Autocamp   Zablace,43.70492551361975,15.867347717285156,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+579,"Autocamp Solaris, kraj",43.69671139062282,15.879063606262207,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+580,"Autocamp, Zablace, kraj",43.70385518175827,15.868055820465088,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+581,"Brodarica, , Rezaliste",43.69284051200237,15.902280807495117,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+582,"Brodarica, mjesto",43.68788325048301,15.908868312835693,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+583,"Brodarica Rezaliste, kraj",43.69329044659915,15.900521278381347,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+584,"Brodarica, Zlatna ribica",43.677889903747364,15.916603803634643,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+585,Galesnica,43.6374650500323,15.956971049308776,Šibenik,,Šibensko-kninska,dobro,izvrsno
+586,"Grebastica,",43.63414943955179,15.961793661117553,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+587,"Jadrija, Bazen",43.72428126075964,15.843604803085327,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+588,"Jadrija, kabine desno",43.72341286761563,15.845375061035156,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+589,"Jadrija, kabine lijevo",43.722792579091525,15.846179723739624,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+590,"Jadrija, kraj",43.727,15.83775,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+591,"Jadrija, sredina",43.72552180055757,15.841319561004638,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+592,Jasenovo,43.65218508271347,15.949101448059082,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+593,Krapanj Hotel Spongiola,43.67563185962536,15.913567543029785,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+594,Morinje,43.6769277235145,15.946794748306274,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+595,"Obonjan, mjesto",43.67857222222222222222222222222222222222,15.7885,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+596,Plaza Crnica - Banj,43.74091179,15.88389354,Šibenik,,Šibensko-kninska,dobro,izvrsno
+597,Plaza Crnica - Banj kraj,43.74193735,15.88302189,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+598,"Solaris H. Jure, Palma",43.69405989,15.8834842,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+599,Solaris H. Jure sredina,43.69411591,15.88518125,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+600,"Solaris, Hotel   Andrija",43.69594452,15.89125678,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+601,"Solaris, Hotel   Ivan",43.6942335,15.88837115,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+602,"Solaris, Hotel   Jure",43.6939519,15.88619757,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+603,"Solaris, Hotel   Niko",43.69461307961679,15.880823135375976,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+604,Solaris Wellnes,43.69504398,15.88877767,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+605,Sparadici,43.63138888888888888888888888888888888889,15.9485,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+606,"Zaton, mjesto",43.78029701195942,15.832414627075195,Šibenik,,Šibensko-kninska,zadovoljavajuće,dobro
+607,"Zaboric, mjesto",43.661833441992066,15.939788818359375,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+608,"Zaboric, pjesak",43.664410215275325,15.93893051147461,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+609,"Zaboric, sljunak",43.662764818592784,15.937954187393188,Šibenik,,Šibensko-kninska,izvrsno,izvrsno
+610,"Betina, Kosirina pijesak",43.79699548733474,15.609383583068847,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+611,"Betina, Kosirina sljunak",43.79413012511182,15.60582160949707,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+612,"Betina, Plitka vala",43.80557526378015,15.613653659820556,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+613,"Betina, Zdrace",43.82461111111111111111111111111111111111,15.59813888888888888888888888888888888889,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+614,"Jezera, Lovisca",43.7939597478953,15.627686977386474,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+615,"Jezera, mjesto",43.78342639499274,15.647621154785156,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+616,"Tisno, Jazine",43.81032923026193,15.630390644073486,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+617,Tisno Rastovac,43.79965937652719,15.65774917602539,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+618,Tisno Rastovac Hostin,43.79936111111111111111111111111111111111,15.65733333333333333333333333333333333333,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+619,"Tisno, Sv. Andrija",43.792287,15.64824842,Tisno,,Šibensko-kninska,izvrsno,izvrsno
+620,"Tribunj, Sovlja",43.763345923369854,15.728709697723388,Tribunj,,Šibensko-kninska,izvrsno,izvrsno
+621,"Tribunj, Zamalin",43.75751576,15.74061894,Tribunj,,Šibensko-kninska,izvrsno,izvrsno
+622,"Vodice, Hotel   Punta",43.75191666666666666666666666666666666667,15.77036111111111111111111111111111111111,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+623,Hotel  Imperijal,43.752721929044625,15.786902904510498,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+624,Hotel Olympia kraj,43.75400837737922,15.784564018249511,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+625,Hotel Olympia pocetak,43.75496157126032,15.78361988067627,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+626,Plava plaza kraj,43.75307066777112,15.764157772064209,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+627,Plava plaza sredina,43.75315,15.76644444444444444444444444444444444444,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+628,"Prvic Luka, mjesto",43.72190833333333333333333333333333333333,15.79853888888888888888888888888888888889,Vodice,,Šibensko-kninska,dobro,izvrsno
+629,"Prvic Sepurin, mjesto",43.73093055555555555555555555555555555556,15.78710833333333333333333333333333333333,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+630,"Srima, Lovetovo",43.75034270173097,15.789799690246582,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+631,"Srima, mjesto",43.74362300506472,15.803285837173462,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+632,"Srima, mjesto sredina",43.74477277,15.79950428,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+633,Tobogan,43.7534763,15.78610605,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+634,Vodice Hangar,43.75601309,15.78284834,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+635,"Vodice, Hotel   Olympia",43.754488850989375,15.78409194946289,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+636,Vodice Odmaraliste,43.75391666666666666666666666666666666667,15.77358333333333333333333333333333333333,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+637,"Vodice, Plava plaza",43.75383333333333333333333333333333333333,15.76844444444444444444444444444444444444,Vodice,,Šibensko-kninska,izvrsno,izvrsno
+638,Borak,43.25865117611428,16.643235683441162,Bol,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+639,Martinica,43.26108111451468,16.66805148124695,Bol,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+640,Zlatni Rat 1,43.255861706049146,16.632914543151855,Bol,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+641,Zlatni Rat 2,43.2558304507587,16.634888648986816,Bol,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+642,Bijaka,43.32953266950751,16.43580436706543,Milna,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+643,Vlaska,43.329064406046854,16.438615322113037,Milna,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+644,Hotel Park,43.37872703038374,16.62458896636963,Postira,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+645,Prvlja,43.37563892911122,16.62104845046997,Postira,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+646,Zastivanje,43.377978414213906,16.631412506103515,Postira,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+647,Hotel Galeb,43.335073513009284,16.835474967956543,Povlja,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+648,Lanterna,43.340660668598005,16.829853057861328,Povlja,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+649,Macel,43.34814742,16.73709867,Pučišća,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+650,Sv. Rok,43.34978948,16.73730335,Pučišća,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+651,Puntinak,43.27982978884488,16.862683296203613,Selca,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+652,Plaza Baldazar,43.377198595875306,16.605277061462402,Splitska,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+653,Porat,43.285640705176924,16.864957809448242,Sumartin,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+654,Skver,43.28282904077466,16.872403621673584,Sumartin,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+655,Banj - sredina,43.386836446455405,16.546955108642578,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+656,Banj 1,43.38713273150107,16.547491550445556,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+657,Banj 2,43.38671169442396,16.548328399658203,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+658,Hotel Kaktus,43.38699238613365,16.539251804351806,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+659,Velika Luka,43.38401386893595,16.537578105926513,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+660,Vlacica,43.38517371,16.55100793,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+661,Vrilo,43.38516786678733,16.558327674865722,Supetar,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+662,Bunta,43.3861191187685,16.48219585418701,Sutivan,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+663,Lucica,43.38717951321798,16.477346420288086,Sutivan,Brač,Splitsko-dalmatinska,izvrsno,izvrsno
+664,"Autokamp Vira, kupaliste",43.19236094,16.4311977,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+665,Gradska Plaza,43.17119488218694,16.433959007263183,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+666,Gradska plaza Bonj,43.17141397272922,16.434645652770996,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+667,Hotel Amfora,43.171695659414446,16.43404483795166,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+668,Hvarska Milna - istok,43.16202367,16.48689508,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+669,Hvarska Milna - zapad,43.16167934,16.48573637,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+670,Plaza Dominikanski samostan,43.168784834350696,16.44279956817627,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+671,Uvala Krizna Luka,43.166562498179395,16.444602012634277,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+672,Uvala Pokonji Dol - istok,43.16276308,16.45555866,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+673,Uvala Pokonji Dol - zapad,43.16284134,16.45446432,Hvar,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+674,Hotel Fontana,43.166625100305,16.69870376586914,Jelsa,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+675,Uvala Mina,43.162994070968374,16.704540252685547,Jelsa,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+676,Hotel Arkada,43.185903501986324,16.585278511047363,Stari Grad,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+677,Kupaliste Lanterna,43.18333333333333333333333333333333333333,16.58444444444444444444444444444444444444,Stari Grad,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+678,Uvala Maslinica,43.178518340036945,16.568241119384765,Stari Grad,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+679,Kupaliste Soline,43.179269414260574,16.690292358398437,Vrboska,Hvar,Splitsko-dalmatinska,izvrsno,izvrsno
+680,Torac,43.54819040638942,16.391741037368774,Kaštel Gomilica,Kaštela,Splitsko-dalmatinska,dobro,nezadovoljavajuće
+681,Baletna skola,43.54825261602423,16.378716230392456,Kaštel Kambelovac,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+682,Miljenko i Dobrila,43.55072539700793,16.356582641601562,Kaštel Lukšić,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+683,Sulavi,43.55060098277844,16.360809803009033,Kaštel Lukšić,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+684,Djardin,43.55038325725886,16.34690523147583,Kaštel Stari,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+685,Hotel Palace,43.55065541403543,16.354522705078125,Kaštel Stari,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+686,Gojaca,43.54514983223184,16.42827272415161,Kaštel Sućurac,Kaštela,Splitsko-dalmatinska,nezadovoljavajuće,nezadovoljavajuće
+687,K. Stafilic-Gabine,43.54671290869171,16.331605911254883,Kaštel Štafilić,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+688,Resnik,43.54050702288354,16.315072774887085,Resnik,Kaštela,Splitsko-dalmatinska,izvrsno,izvrsno
+689,Horizont,43.354829137551675,16.948513984680176,Baška Voda,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+690,Ikovac,43.360726489953855,16.941604614257812,Baška Voda,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+691,Mali mulic,43.35679888579945,16.94837987422943,Baška Voda,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+692,Podluka,43.35939261516616,16.944812536239624,Baška Voda,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+693,Uranija,43.35305045845815,16.94937229156494,Baška Voda,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+694,Bračtušs,43.32806152965693,16.978576183319092,Bračtuš,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+695,Berulia,43.36195893299056,16.93795680999756,Brela,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+696,Dugi Rat - istok,43.369774223092214,16.92370891571045,Brela,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+697,Dugi Rat - zapad,43.3704137531595,16.922099590301513,Brela,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+698,Soline Istok,43.3670756439171,16.930747032165527,Brela,Makarska Rivijera,Splitsko-dalmatinska,dobro,izvrsno
+699,Soline Zapad,43.36730183001838,16.92867636680603,Brela,Makarska Rivijera,Splitsko-dalmatinska,dobro,izvrsno
+700,Stomarica,43.38034900037737,16.91220760345459,Brela,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+701,Brist - plaza,43.11978078697982,17.321105003356933,Brist,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+702,Drasnice,43.21731174864653,17.108330726623535,Drašnice,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+703,D. Vala - Kod trajekta,43.155480911291896,17.246861457824707,Drvenik,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+704,Gornja Vala,43.15166136762,17.258148193359375,Drvenik,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+705,Gradac - Plaza,43.10875337930414,17.33865737915039,Gradac,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+706,Plaza Igrane,43.193913514989596,17.140345573425293,Igrane,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+707,"Krvavica, odmaraliste",43.32255517010416,16.983790397644043,Krvavica,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+708,Cvitacka,43.31312568747831,16.995849609375,Makarska,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+709,Hotel Dalmacija,43.30178963775831,17.00833797454834,Makarska,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+710,Plaza - centar,43.297682530610814,17.01335906982422,Makarska,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+711,Sveti Petar,43.295215009647144,17.01084852218628,Makarska,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+712,Hotel Podgorka,43.24023205955834,17.07627296447754,Podgora,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+713,Plisivac,43.246234318141624,17.067850828170776,Podgora,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+714,Hotel Alga,43.2700187029664,17.052669525146484,Tučepi,Makarska Rivijera,Splitsko-dalmatinska,dobro,izvrsno
+715,Kamena,43.260268541404855,17.05979347229004,Tučepi,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+716,Slatina,43.27161233087615,17.04902172088623,Tučepi,Makarska Rivijera,Splitsko-dalmatinska,dobro,izvrsno
+717,Zaostrog - Plaza,43.13838503147995,17.281923294067383,Zaostrog,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+718,Ak. Dole,43.169035233357945,17.196435928344727,Živogošće,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,izvrsno
+719,Plaza Zivogosce,43.18415117151677,17.162060737609863,Živogošće,Makarska Rivijera,Splitsko-dalmatinska,izvrsno,dobro
+720,Duce - Luka,43.44120387213277,16.651668548583984,Duće,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+721,Duce-Golubinka,43.43902263358643,16.67001485824585,Duće,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+722,Bajnice,43.46078476,16.59401715,Dugi Rat,Omiš,Splitsko-dalmatinska,dobro,izvrsno
+723,Dugi Rat - Glavica,43.438929150177174,16.645424365997314,Dugi Rat,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+724,Dugi Rat - Plaza,43.44456905734776,16.63851499557495,Dugi Rat,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+725,Krilo,43.460426530583334,16.602036952972412,Dugi Rat,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+726,Sumpetar,43.451474111646164,16.625232696533203,Dugi Rat,Omiš,Splitsko-dalmatinska,zadovoljavajuće,izvrsno
+727,Ruskamen,43.40810291403966,16.749000549316406,Lokva Rogoznica,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+728,Autokamp - zapad,43.438960311329644,16.67922019958496,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+729,Brzet,43.435252021511054,16.701579093933105,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+730,Nemira,43.42178808463427,16.709260940551758,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+731,Plaza Punta - pocetak,43.43908495577903,16.68844699859619,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+732,Plaza Punta - sredina,43.44070531025503,16.691150665283203,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+733,Vela Luka,43.414836778542394,16.723251342773438,Omiš,Omiš,Splitsko-dalmatinska,izvrsno,izvrsno
+734,Pisak,43.39888940053837,16.86125099658966,Pisak,Omiš,Splitsko-dalmatinska,dobro,izvrsno
+735,Hotel Lav,43.49264061,16.5366426,Podstrana,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+736,Sv. Martin,43.474006443079745,16.56566619873047,Podstrana,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+737,Uvala Strozanac,43.49904668,16.53401194,Podstrana,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+738,Bacvice - istok,43.50081249,16.44924606,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+739,Bacvice - ulaz,43.50224067,16.44769358,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+740,Bacvice - zapad,43.50060139,16.4460667,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+741,Bene,43.51438256,16.4012672,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+742,Firule,43.5002854943415,16.45352840423584,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+743,Gusar,43.51645512643928,16.42533302307129,Split,Split,Splitsko-dalmatinska,dobro,izvrsno
+744,Hotel Split,43.50150468,16.47063133,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+745,Jezinac,43.50353844401585,16.41730785369873,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+746,Kasjuni,43.50652525,16.40024628,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+747,"Stobrec, usce",43.50264372,16.52686327,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+748,Zvoncac,43.502760242340216,16.421363353729248,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+749,Znjan - istok,43.50147023,16.48093356,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+750,Znjan - zapad,43.50142792,16.47602472,Split,Split,Splitsko-dalmatinska,izvrsno,izvrsno
+751,Maslinica,43.39980925587919,16.201229095458984,Maslinica,Šolta,Splitsko-dalmatinska,izvrsno,izvrsno
+752,Rogačc,43.39338556753629,16.301264762878418,Rogač,Šolta,Splitsko-dalmatinska,izvrsno,izvrsno
+753,Marina-Plaza,43.5109152975889,16.11921787261963,Marina,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+754,Poljica,43.51724871196098,16.13595485687256,Marina,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+755,Pralisce,43.51687526125086,16.11797332763672,Marina,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+756,Ak. Vranjica Belvedere,43.50825413158073,16.191916465759277,Seget,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+757,Apartmani Medena,43.51002825528974,16.205520629882812,Seget,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+758,Hotel Jadran,43.51713978907595,16.221013069152832,Seget,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+759,Hotel Medena,43.510930859618135,16.211185455322265,Seget,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+760,Seget Vranjica,43.512736027779745,16.177797317504883,Seget,Trogir,Splitsko-dalmatinska,izvrsno,izvrsno
+761,Sv. Kriz,43.51419101626517,16.29150152206421,Arbanija,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+762,Tri sestrice,43.513910914256606,16.286855936050415,Arbanija,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+763,Kava - istok,43.49223797106299,16.207430362701416,Okrug Donji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+764,Kava - zapad,43.49412153008908,16.205649375915527,Okrug Donji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+765,Kuzmica Uvala,43.49351443896768,16.255581378936768,Okrug Gornji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+766,Marinova Draga,43.50666671353326,16.258220672607422,Okrug Gornji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+767,Toc,43.496689924995735,16.25972270965576,Okrug Gornji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+768,Uvala Mavarcica,43.49047889181634,16.272382736206054,Okrug Gornji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+769,Uvala Milicevo,43.50237113774067,16.257834434509277,Okrug Gornji,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+770,Saldun,43.51046399699564,16.250925064086914,Saldun,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+771,Slatine,43.49977185468669,16.3391375541687,Split/Šlatine,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+772,Duhanska Stanica,43.51793336559332,16.26422882080078,Trogir,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,nezadovoljavajuće
+773,Misevac,43.515132460710014,16.276330947875976,Trogir,Trogir/Čiovo,Splitsko-dalmatinska,izvrsno,izvrsno
+774,Gusarica,43.04794167271853,16.083984375,Komiža,Vis,Splitsko-dalmatinska,izvrsno,izvrsno
+775,Lucica,43.04310393,16.08862996,Komiža,Vis,Splitsko-dalmatinska,izvrsno,izvrsno
+776,Grandovac,43.06926399,16.20637894,Vis,Vis,Splitsko-dalmatinska,izvrsno,izvrsno
+777,Prirovo,43.06349515,16.19007111,Vis,Vis,Splitsko-dalmatinska,izvrsno,izvrsno
+778,Srebrna,43.02199998502556,16.20380401611328,Vis,Vis,Splitsko-dalmatinska,izvrsno,izvrsno
+779,Uvala Budima,42.80327280483465,17.843985557556152,Dubrovačko primorje,Banići,Dubrovačko-neretvanska,izvrsno,izvrsno
+780,Uvala Janska,42.79514872764227,17.850615978240967,Dubrovačko primorje,Banići,Dubrovačko-neretvanska,izvrsno,izvrsno
+781,Brsecine,42.728651837961806,17.95365571975708,Dubrovnik,Brseine,Dubrovačko-neretvanska,izvrsno,izvrsno
+782,Ht. Albatros,42.58528333333333333333333333333333333333,18.22455,Konavle,Cavtat,Dubrovačko-neretvanska,izvrsno,izvrsno
+783,Ht. Croatia,42.58014359529928,18.21308970451355,Konavle,Cavtat,Dubrovačko-neretvanska,izvrsno,izvrsno
+784,Ht. Epidaurus,42.58721367762801,18.225760459899902,Konavle,Cavtat,Dubrovačko-neretvanska,izvrsno,izvrsno
+785,Ht. Supetar,42.58328770855936,18.213647603988647,Konavle,Cavtat,Dubrovačko-neretvanska,izvrsno,izvrsno
+786,Uvala Doli,42.806909400719384,17.793753147125244,Dubrovačko primorje,Doli,Dubrovačko-neretvanska,izvrsno,izvrsno
+787,Banje,42.64135417357279,18.116540908813476,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+788,Dance,42.64087515,18.1008972,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+789,Ht. Argentina,42.63964153796271,18.120832443237304,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+790,Ht. Bellevue,42.646,18.09266666666666666666666666666666666667,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+791,Ht. Belvedere,42.635174257350656,18.130123615264892,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+792,Ht. Dubrovnik Palace,42.651333333333333333333333333,18.06,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,dobro,izvrsno
+793,Ht. Dubrovnik President,42.662115143057235,18.05701732635498,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+794,Ht. Excelsior,42.64075,18.11843333333333333333333333333333333333,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+795,Ht. Neptun,42.65903812783334,18.057478666305542,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+796,Ht. Splendid,42.65403568066681,18.064817190170288,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+797,Ht. Vis 2,42.652441756500785,18.061094284057617,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+798,Kolocep Donje Celo,42.678,18.00478333333333333333333333333333333333,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+799,Kup. Copacabana,42.66413484462523,18.064956665039062,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+800,Lozica,42.67263339,18.06778738,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+801,Mali Zaton,42.70066748566045,18.04208278656006,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,dobro,zadovoljavajuće
+802,Orasac - Soderini,42.694611745808295,18.01461696624756,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+803,Park Gjivovic,42.6381577418108,18.12593936920166,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+804,Porporela,42.63951525881665,18.112657070159912,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+805,Stikovica,42.68817687513232,18.04929256439209,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+806,Sulic,42.641267359077055,18.103344440460205,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+807,Trsteno,42.710554103976165,17.97541379928589,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+808,Uvala Lapad,42.65517191849825,18.0694842338562,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+809,Veliki Zaton,42.68943866702586,18.040666580200195,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+810,Veliki Zali,42.74031482668021,17.927391529083252,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+811,Villa Dubrovnik,42.63784203593689,18.126314878463745,Dubrovnik,Dubrovnik,Dubrovačko-neretvanska,izvrsno,izvrsno
+812,Kolocep - Dun Djivan,42.66973333333333333333333333333333333333,18.01918333333333333333333333333333333333,Dubrovnik,Koločep,Dubrovačko-neretvanska,izvrsno,izvrsno
+813,Prigradica,42.965907161300784,16.808180809020996,Blato,Korčula,Dubrovačko-neretvanska,izvrsno,zadovoljavajuće
+814,Priscapac,42.903287738093816,16.82229995727539,Blato,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+815,Prizba,42.905441042807176,16.79612159729004,Blato,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+816,Badija,42.951098532013965,17.162811756134033,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+817,Gradska plaza Banje,42.956909341630954,17.1372127532959,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+818,Ht. Bon Repos,42.95258333333333333333333333333333333333,17.14286666666666666666666666666666666667,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+819,Ht. Park,42.956501032391536,17.137985229492187,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+820,Ispod zidina,42.96191666666666666666666666666666666667,17.13748333333333333333333333333333333333,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+821,Racisce,42.9735063886709,17.02108383178711,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+822,Sv. Nikola,42.96283333333333333333333333333333333333,17.12895,Korčula,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+823,Zrnovska Banja,42.95879381070452,17.111270427703857,Korčula,Korčula,Dubrovačko-neretvanska,zadovoljavajuće,izvrsno
+824,Bilin zal,42.9222,17.18445,Lumbarda,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+825,Uvala Przina,42.917840727946206,17.185964584350586,Lumbarda,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+826,Uvala Tatinja,42.92420461640871,17.177016735076904,Lumbarda,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+827,Ht. Feral,42.903947883299715,16.856975555419922,Smokvica,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+828,Ht. Adria,42.96824669289519,16.700763702392578,Vela Luka,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+829,Ht. Posejdon,42.9625782784177,16.712887287139892,Vela Luka,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+830,Proizd,42.98603364314165,16.620619297027588,Vela Luka,Korčula,Dubrovačko-neretvanska,izvrsno,izvrsno
+831,Kuciste,42.97513915795521,17.12965965270996,Orebić,Kuite,Dubrovačko-neretvanska,izvrsno,izvrsno
+832,Kupari,42.62000205226323,18.192458152770996,Župa dubrovačka,Kupari,Dubrovačko-neretvanska,izvrsno,izvrsno
+833,Pasadur,42.765493095319925,16.820690631866455,Lastovo,Lastovo,Dubrovačko-neretvanska,izvrsno,izvrsno
+834,Rt Zaglav,42.7482176187141,16.81409239768982,Lastovo,Lastovo,Dubrovačko-neretvanska,izvrsno,izvrsno
+835,Skrivena luka,42.73700528251623,16.888067722320556,Lastovo,Lastovo,Dubrovačko-neretvanska,izvrsno,izvrsno
+836,Sv. Mihovil,42.77184119375536,16.895084381103515,Lastovo,Lastovo,Dubrovačko-neretvanska,izvrsno,izvrsno
+837,Bijele stijene,42.62502302482709,18.11898708343506,Dubrovnik,Lokrum,Dubrovačko-neretvanska,izvrsno,izvrsno
+838,Portoc,42.62524801176007,18.12348246574402,Dubrovnik,Lokrum,Dubrovačko-neretvanska,izvrsno,izvrsno
+839,Lopud Sunj,42.68006925083285,17.95262575149536,Dubrovnik,Lopud,Dubrovačko-neretvanska,izvrsno,izvrsno
+840,Lopud-Grand hotel,42.686599599220884,17.937583923339843,Dubrovnik,Lopud,Dubrovačko-neretvanska,izvrsno,izvrsno
+841,Loviste,43.024862892075525,17.034162282943725,Orebić,Lovite,Dubrovačko-neretvanska,izvrsno,izvrsno
+842,Mlini,42.62149417601844,18.207253217697143,Župa dubrovačka,Mlini,Dubrovačko-neretvanska,izvrsno,izvrsno
+843,Strijezica,42.62287574020478,18.201706409454345,Župa dubrovačka,Mlini,Dubrovačko-neretvanska,izvrsno,izvrsno
+844,Ht. Odisej,42.78877152455195,17.341554164886474,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+845,Kod mosta,42.78259839601277,17.35161781311035,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+846,M.Zaglavac,42.74155979995018,17.597222328186035,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+847,Okuklje,42.72631897701287,17.66871929168701,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+848,Polace,42.78634644032608,17.378761768341064,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,dobro
+849,Prozura,42.73068333333333333333333333333333333333,17.65026666666666666666666666666666666667,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+850,Saplunara,42.69984747212718,17.739744186401367,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+851,Skalinada,42.78365,17.3475,Mljet,Mljet,Dubrovačko-neretvanska,izvrsno,izvrsno
+852,Molunat,42.45352871720563,18.43484401702881,Konavle,Molunat,Dubrovačko-neretvanska,izvrsno,izvrsno
+853,Usce,43.01556776176427,17.465686798095703,Opuzen,Opuzen,Dubrovačko-neretvanska,izvrsno,izvrsno
+854,Orasac-Na skali,42.69665404699157,18.002697229385376,Dubrovnik,Orašac,Dubrovačko-neretvanska,izvrsno,izvrsno
+855,Ht. Bellevue,42.97366666666666666666666666666666666667,17.16456666666666666666666666666666666667,Orebić,Orebić,Dubrovačko-neretvanska,izvrsno,izvrsno
+856,Orebićc,42.97438557751841,17.171716690063476,Orebić,Orebić,Dubrovačko-neretvanska,izvrsno,izvrsno
+857,Trstenica,42.977431241689246,17.191157341003418,Orebić,Orebić,Dubrovačko-neretvanska,izvrsno,izvrsno
+858,Drace,42.92842362,17.44947115,Janjina,Peljeac,Dubrovačko-neretvanska,dobro,izvrsno
+859,Zaglavak - Trstenik,42.91161208,17.41305479,Orebić,Peljeac,Dubrovačko-neretvanska,izvrsno,izvrsno
+860,Broce,42.81926593196433,17.718576192855835,Ston,Peljeac,Dubrovačko-neretvanska,izvrsno,izvrsno
+861,Kobas,42.80329086,17.74341711,Ston,Peljeac,Dubrovačko-neretvanska,dobro,izvrsno
+862,Ht. Plat,42.6081743250406,18.2243013381958,Župa dubrovačka,Plat,Dubrovačko-neretvanska,izvrsno,izvrsno
+863,Portina,43.06289389,17.42307553,Ploče,Ploče,Dubrovačko-neretvanska,dobro,dobro
+864,Usce,43.01820348594956,17.455730438232422,Ploče,Ploče,Dubrovačko-neretvanska,dobro,zadovoljavajuće
+865,Prapratno,42.81668464409703,17.67575740814209,Ston,Prapratno,Dubrovačko-neretvanska,izvrsno,izvrsno
+866,Prevlaka,42.4066642855619,18.51119041442871,Konavle,Prevlaka,Dubrovačko-neretvanska,izvrsno,izvrsno
+867,Sladjenovici,42.783811023416,17.85879135131836,Dubrovačko primorje,Slačenovići,Dubrovačko-neretvanska,izvrsno,izvrsno
+868,Ht. Admiral,42.78675587679651,17.888295650482177,Dubrovačko primorje,Slano,Dubrovačko-neretvanska,izvrsno,izvrsno
+869,Ht. Osmine,42.77916511429248,17.869691848754883,Dubrovačko primorje,Slano,Dubrovačko-neretvanska,izvrsno,izvrsno
+870,Blace,43.00076324469522,17.480084896087646,Slivno,Slivno,Dubrovačko-neretvanska,izvrsno,izvrsno
+871,Duba,42.9774704889544,17.4927020072937,Slivno,Slivno,Dubrovačko-neretvanska,izvrsno,izvrsno
+872,Duboka,42.94442327634067,17.542805671691894,Slivno,Slivno,Dubrovačko-neretvanska,zadovoljavajuće,izvrsno
+873,Klek,42.9436379045523,17.562718391418457,Slivno,Slivno,Dubrovačko-neretvanska,izvrsno,izvrsno
+874,Komarna,42.941462372383874,17.537773847579956,Slivno,Slivno,Dubrovačko-neretvanska,izvrsno,izvrsno
+875,Srebreno,42.623270467198544,18.19838047027588,Župa dubrovačka,Srebreno,Dubrovačko-neretvanska,izvrsno,izvrsno
+876,Sreser,42.94560131523718,17.445216178894043,Janjina,Sreser,Dubrovačko-neretvanska,izvrsno,izvrsno
+877,Ston,42.83331946835658,17.697601318359375,Ston,Supavo,Dubrovačko-neretvanska,zadovoljavajuće,izvrsno
+878,Kup. Sudjuradj,42.71098333333333333333333333333333333333,17.91101666666666666666666666666666666667,Dubrovnik,Šipan,Dubrovačko-neretvanska,izvrsno,izvrsno
+879,SŠipanska Luka,42.72929808797606,17.853147983551025,Dubrovnik,Šipan,Dubrovačko-neretvanska,izvrsno,izvrsno
+880,Ht. Faraon,43.009229009508104,17.264456748962402,Trpanj,Trpanj,Dubrovačko-neretvanska,izvrsno,izvrsno
+881,Uvala Luka,43.00387821689628,17.284830808639526,Trpanj,Trpanj,Dubrovačko-neretvanska,izvrsno,izvrsno
+882,Trstenik,42.917102160051485,17.39959716796875,Orebić,Trstenik,Dubrovačko-neretvanska,izvrsno,izvrsno
+883,Viganj,42.978671443157026,17.103320360183716,Orebić,Viganj,Dubrovačko-neretvanska,izvrsno,izvrsno
+884,ZŠuljana,42.892299997947056,17.454142570495605,Ston,Šuljana,Dubrovačko-neretvanska,izvrsno,izvrsno
