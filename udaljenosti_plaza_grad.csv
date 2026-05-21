@@ -6,23 +6,23 @@ beach_id,grad,udaljenost_km
 5,Pula,4.47
 6,Barban,6.75
 7,Vodnjan,9.14
-8,Poreč,0.9
-9,Poreč,0.75
-10,Kršan,2.37
+8,Poreč,1.21
+9,Poreč,0.92
+10,Kršan,7.52
 11,Pula,7.42
-12,Poreč,1.65
-13,Poreč,1.71
+12,Poreč,1.28
+13,Poreč,1.41
 14,Rovinj,2.95
 15,Rovinj,2.51
 16,Rovinj,2.8
 17,Rovinj,2.87
 18,Rovinj,2.97
 19,Rovinj,3.24
-20,Poreč,5.12
+20,Poreč,5.45
 21,Tar-Vabriga,2.93
-22,Marčana,0.0
-23,Fažana,0.4
-24,Fažana,1.1
+22,Marčana,6.48
+23,Fažana,0.5
+24,Fažana,0.4
 25,Umag,4.62
 26,Funtana,1.04
 27,Funtana,0.68
@@ -72,7 +72,7 @@ beach_id,grad,udaljenost_km
 71,Umag,6.08
 72,Novigrad,3.36
 73,Novigrad,3.73
-74,Poreč,2.31
+74,Poreč,2.68
 75,Medulin,2.13
 76,Medulin,1.64
 77,Medulin,1.76
@@ -97,21 +97,21 @@ beach_id,grad,udaljenost_km
 96,Vrsar,1.26
 97,Novigrad,1.78
 98,Medulin,7.37
-99,Poreč,2.48
-100,Poreč,2.21
-101,Poreč,2.05
-102,Kršan,1.1
-103,Kršan,1.27
+99,Poreč,2.23
+100,Poreč,1.96
+101,Poreč,1.76
+102,Kršan,5.88
+103,Kršan,5.71
 104,Rovinj,3.2
 105,Rovinj,3.87
 106,Rovinj,3.66
 107,Medulin,2.99
 108,Medulin,2.67
-109,Poreč,0.97
-110,Poreč,0.22
-111,Poreč,0.17
-112,Poreč,1.43
-113,Poreč,1.23
+109,Poreč,0.64
+110,Poreč,0.59
+111,Poreč,0.49
+112,Poreč,1.13
+113,Poreč,0.93
 114,Medulin,3.45
 115,Medulin,2.94
 116,Medulin,2.21
@@ -126,8 +126,8 @@ beach_id,grad,udaljenost_km
 125,Pula,4.47
 126,Labin,2.7
 127,Labin,2.82
-128,Raša,1.96
-129,Raša,2.15
+128,Raša,11.43
+129,Raša,11.62
 130,Rovinj,0.95
 131,Umag,6.49
 132,Umag,7.34
@@ -144,31 +144,31 @@ beach_id,grad,udaljenost_km
 143,Pula,2.32
 144,Pula,2.24
 145,Pula,2.97
-146,Raša,2.45
-147,Raša,2.45
-148,Raša,2.58
+146,Raša,8.16
+147,Raša,7.95
+148,Raša,7.77
 149,Poreč,0.66
-150,Poreč,0.91
-151,Poreč,1.78
-152,Poreč,1.9
-153,Poreč,1.18
-154,Poreč,1.6
-155,Poreč,1.43
+150,Poreč,0.8
+151,Poreč,2.12
+152,Poreč,2.28
+153,Poreč,1.41
+154,Poreč,1.79
+155,Poreč,1.62
 156,Novigrad,1.1
 157,Novigrad,0.98
 158,Novigrad,0.81
-159,Raša,6.13
-160,Poreč,2.73
-161,Poreč,3.2
-162,Poreč,3.39
-163,Poreč,2.89
+159,Raša,12.23
+160,Poreč,3.22
+161,Poreč,3.72
+162,Poreč,3.89
+163,Poreč,3.42
 164,Umag,0.76
 165,Umag,0.43
 166,Rovinj,4.89
 167,Rovinj,5.49
 168,Rovinj,5.22
-169,Fažana,0.57
-170,Fažana,0.94
+169,Fažana,1.36
+170,Fažana,1.67
 171,Vrsar,1.52
 172,Vrsar,1.82
 173,Pula,2.33
@@ -197,34 +197,34 @@ beach_id,grad,udaljenost_km
 196,Funtana,1.72
 197,Funtana,2.75
 198,Funtana,2.98
-199,Poreč,3.62
-200,Poreč,2.67
-201,Poreč,3.06
-202,Poreč,3.24
+199,Poreč,3.45
+200,Poreč,2.41
+201,Poreč,2.81
+202,Poreč,2.95
 203,Cres,0.5
 204,Cres,21.6
 205,Cres,7.24
 206,Crikvenica,1.8
 207,Crikvenica,0.5
-208,Novi Vinodolski,1.79
+208,Novi Vinodolski,1.48
 209,Dobrinj,3.74
 210,Dobrinj,5.36
 211,Krk,8.18
 212,Krk,8.46
 213,Malinska,2.77
-214,Omišalj,2.22
-215,Omišalj,2.77
-216,Omišalj,1.97
-217,Omišalj,3.71
-218,Omišalj,3.14
-219,Omišalj,4.07
+214,Omišalj,0.56
+215,Omišalj,0.72
+216,Omišalj,0.61
+217,Omišalj,1.6
+218,Omišalj,1.03
+219,Omišalj,2.06
 220,"Omiššalj, Njivice",0.0
 221,Punat,6.95
 222,Punat,8.6
 223,Vrbnik,0.37
-224,Mali Lošinj,1.76
-225,Mali Lošinj,4.72
-226,Mali Lošinj,3.47
+224,Mali Lošinj,3.43
+225,Mali Lošinj,1.43
+226,Mali Lošinj,2.31
 227,Lovran,2.58
 228,Lopar,1.42
 229,Lopar,1.4
@@ -236,12 +236,12 @@ beach_id,grad,udaljenost_km
 235,Kraljevica,3.25
 236,Rijeka,2.44
 237,Rijeka,2.38
-238,Baška,1.01
-239,Baška,0.4
-240,Baška,0.55
-241,Baška,0.73
-242,Baška,0.97
-243,Baška,0.7
+238,Baška,1.25
+239,Baška,0.98
+240,Baška,0.4
+241,Baška,1.54
+242,Baška,1.73
+243,Baška,0.81
 244,Cres,1.35
 245,Cres,0.78
 246,Cres,0.67
@@ -321,34 +321,34 @@ beach_id,grad,udaljenost_km
 320,Lovran,3.15
 321,Lovran,0.57
 322,Lovran,0.24
-323,Mali Lošinj,10.73
-324,Mali Lošinj,10.54
-325,Mali Lošinj,9.96
-326,Mali Lošinj,7.09
-327,Mali Lošinj,6.53
-328,Mali Lošinj,13.03
-329,Mali Lošinj,12.22
-330,Mali Lošinj,9.45
-331,Mali Lošinj,10.93
-332,Mali Lošinj,14.06
-333,Mali Lošinj,7.59
-334,Mali Lošinj,6.67
-335,Mali Lošinj,5.01
-336,Mali Lošinj,4.4
-337,Mali Lošinj,6.96
-338,Mali Lošinj,6.35
-339,Mali Lošinj,6.01
-340,Mali Lošinj,5.78
-341,Mali Lošinj,5.61
-342,Mali Lošinj,5.58
-343,Mali Lošinj,6.21
-344,Mali Lošinj,9.13
-345,Mali Lošinj,4.26
-346,Mali Lošinj,4.35
-347,Mali Lošinj,4.87
-348,Mali Lošinj,4.71
-349,Mali Lošinj,9.68
-350,Mali Lošinj,5.77
+323,Mali Lošinj,15.72
+324,Mali Lošinj,15.53
+325,Mali Lošinj,14.95
+326,Mali Lošinj,2.78
+327,Mali Lošinj,2.09
+328,Mali Lošinj,18.0
+329,Mali Lošinj,17.2
+330,Mali Lošinj,14.44
+331,Mali Lošinj,15.92
+332,Mali Lošinj,19.04
+333,Mali Lošinj,3.3
+334,Mali Lošinj,2.3
+335,Mali Lošinj,0.69
+336,Mali Lošinj,0.77
+337,Mali Lošinj,2.56
+338,Mali Lošinj,1.7
+339,Mali Lošinj,1.6
+340,Mali Lošinj,1.54
+341,Mali Lošinj,1.41
+342,Mali Lošinj,1.59
+343,Mali Lošinj,1.65
+344,Mali Lošinj,14.12
+345,Mali Lošinj,2.0
+346,Mali Lošinj,1.93
+347,Mali Lošinj,1.07
+348,Mali Lošinj,1.28
+349,Mali Lošinj,14.67
+350,Mali Lošinj,1.17
 351,Malinska,0.41
 352,Malinska,0.2
 353,Malinska,0.77
@@ -358,26 +358,26 @@ beach_id,grad,udaljenost_km
 357,Malinska,1.24
 358,Malinska,1.02
 359,Malinska,1.71
-360,Mošćenička Draga,0.17
-361,Mošćenička Draga,0.28
-362,Mošćenička Draga,0.45
-363,Novi Vinodolski,1.07
-364,Novi Vinodolski,5.24
-365,Novi Vinodolski,10.25
-366,Novi Vinodolski,1.34
-367,Novi Vinodolski,0.69
-368,Novi Vinodolski,2.85
-369,Novi Vinodolski,2.63
-370,Novi Vinodolski,11.51
-371,Novi Vinodolski,6.74
-372,Novi Vinodolski,0.41
-373,Novi Vinodolski,2.0
-374,Omišalj,2.31
-375,Omišalj,2.55
-376,Omišalj,2.99
-377,Omišalj,3.87
-378,Omišalj,1.86
-379,Omišalj,4.34
+360,Mošćenička Draga,0.42
+361,Mošćenička Draga,0.35
+362,Mošćenička Draga,1.02
+363,Novi Vinodolski,0.89
+364,Novi Vinodolski,5.82
+365,Novi Vinodolski,10.87
+366,Novi Vinodolski,1.93
+367,Novi Vinodolski,1.31
+368,Novi Vinodolski,3.41
+369,Novi Vinodolski,3.2
+370,Novi Vinodolski,12.13
+371,Novi Vinodolski,7.34
+372,Novi Vinodolski,0.91
+373,Novi Vinodolski,1.67
+374,Omišalj,4.62
+375,Omišalj,4.81
+376,Omišalj,5.31
+377,Omišalj,6.22
+378,Omišalj,4.21
+379,Omišalj,6.69
 380,Opatija,1.05
 381,Opatija,0.74
 382,Opatija,0.2
@@ -466,9 +466,9 @@ beach_id,grad,udaljenost_km
 465,Biograd n/m,0.71
 466,Sali,30.16
 467,Molat,0.69
-468,Pašman,1.17
+468,Pašman,4.54
 469,Benkovac,10.96
-470,Pakoštane,2.3
+470,Pakoštane,2.94
 471,Sali-Verunić,0.0
 472,Ist,0.43
 473,Kali,0.32
@@ -476,14 +476,14 @@ beach_id,grad,udaljenost_km
 475,Zadar,8.0
 476,Obrovac,6.42
 477,Sali,7.17
-478,I,1.16
+478,Iž,1.24
 479,Kolan,3.87
 480,Jasenice,2.96
 481,Molat,3.28
-482,Pašman,1.34
+482,Pašman,2.45
 483,Nin,1.2
 484,Nin,0.91
-485,Novigrad,0.0
+485,Novigrad,200.5
 486,Olib,0.96
 487,Kolan,3.26
 488,Premuda,2.49
@@ -497,22 +497,22 @@ beach_id,grad,udaljenost_km
 496,Vir,1.74
 497,Vir,2.14
 498,Pag,10.08
-499,Pakoštane,2.75
-500,Pakoštane,1.58
-501,Pašman,5.37
+499,Pakoštane,1.69
+500,Pakoštane,0.46
+501,Pašman,3.0
 502,Zadar,10.43
 503,Posedarje,0.41
 504,Privlaka,1.0
 505,Rava,1.49
-506,Ražanac,1.92
+506,Ražanac,0.28
 507,Jasenice,4.01
-508,Ražanac,1.92
+508,Ražanac,3.61
 509,Sali,0.31
 510,Starigrad,7.84
 511,Silba,1.08
 512,Starigrad-Paklenica,1.34
-513,Sukošan,1.45
-514,Sukošan,1.45
+513,Sukošan,2.83
+514,Sukošan,0.93
 515,Sveti Filip i Jakov,0.37
 516,Sveti Filip i Jakov,6.65
 517,Pag,3.72
@@ -520,8 +520,8 @@ beach_id,grad,udaljenost_km
 519,Starigrad,7.84
 520,Sveti Filip i Jakov,1.87
 521,Preko,8.77
-522,I,1.16
-523,Pakoštane,3.59
+522,Iž,1.51
+523,Pakoštane,5.24
 524,Vrsi,2.86
 525,Zadar,1.88
 526,Zadar,1.08
@@ -542,13 +542,13 @@ beach_id,grad,udaljenost_km
 541,Nin,2.22
 542,Nin,2.21
 543,Sali,31.8
-544,Pašman,5.57
+544,Pašman,8.61
 545,Biograd n/m,1.73
-546,Šibenik,13.94
+546,Šibenik,15.79
 547,Rogoznica,1.4
 548,Tisno,0.77
-549,Šibenik,4.11
-550,Šibenik,4.09
+549,Šibenik,6.35
+550,Šibenik,5.99
 551,Murter Kornati,21.19
 552,Murter Kornati,20.66
 553,Murter Kornati,20.38
@@ -560,54 +560,54 @@ beach_id,grad,udaljenost_km
 559,Pirovac,0.57
 560,Pirovac,0.41
 561,Pirovac,0.52
-562,Primošten,1.53
-563,Primošten,1.3
-564,Primošten,1.47
-565,Primošten,0.32
-566,Primošten,0.54
-567,Primošten,1.03
-568,Primošten,0.5
-569,Primošten,0.72
-570,Primošten,0.44
-571,Primošten,0.29
-572,Primošten,0.44
-573,Primošten,0.36
+562,Primošten,2.34
+563,Primošten,2.13
+564,Primošten,2.3
+565,Primošten,0.78
+566,Primošten,0.39
+567,Primošten,0.34
+568,Primošten,0.53
+569,Primošten,0.12
+570,Primošten,0.39
+571,Primošten,0.55
+572,Primošten,0.39
+573,Primošten,0.47
 574,Rogoznica,0.44
 575,Rogoznica,0.31
 576,Skradin,0.37
-577,Šibenik,0.61
-578,Šibenik,1.81
-579,Šibenik,0.49
-580,Šibenik,1.68
-581,Šibenik,1.53
-582,Šibenik,2.15
-583,Šibenik,1.39
-584,Šibenik,3.19
-585,Šibenik,8.6
-586,Šibenik,9.13
-587,Šibenik,4.68
-588,Šibenik,4.51
-589,Šibenik,4.42
-590,Šibenik,5.22
-591,Šibenik,4.91
-592,Šibenik,7.01
-593,Šibenik,3.14
-594,Šibenik,5.43
-595,Šibenik,7.8
-596,Šibenik,5.28
-597,Šibenik,5.39
-598,Šibenik,0.07
-599,Šibenik,0.17
-600,Šibenik,0.7
-601,Šibenik,0.42
-602,Šibenik,0.24
-603,Šibenik,0.23
-604,Šibenik,0.48
-605,Šibenik,8.67
-606,Šibenik,10.48
-607,Šibenik,5.75
-608,Šibenik,5.52
-609,Šibenik,5.57
+577,Šibenik,4.27
+578,Šibenik,3.91
+579,Šibenik,4.33
+580,Šibenik,3.97
+581,Šibenik,4.63
+582,Šibenik,5.26
+583,Šibenik,4.56
+584,Šibenik,6.49
+585,Šibenik,11.86
+586,Šibenik,12.36
+587,Šibenik,4.23
+588,Šibenik,4.12
+589,Šibenik,4.08
+590,Šibenik,4.63
+591,Šibenik,4.38
+592,Šibenik,10.11
+593,Šibenik,6.68
+594,Šibenik,7.62
+595,Šibenik,10.52
+596,Šibenik,1.14
+597,Šibenik,1.27
+598,Šibenik,4.54
+599,Šibenik,4.5
+600,Šibenik,4.25
+601,Šibenik,4.46
+602,Šibenik,4.51
+603,Šibenik,4.52
+604,Šibenik,4.36
+605,Šibenik,12.22
+606,Šibenik,7.16
+607,Šibenik,8.82
+608,Šibenik,8.53
+609,Šibenik,8.66
 610,Tisno,2.59
 611,Tisno,2.91
 612,Tisno,2.36
@@ -647,8 +647,8 @@ beach_id,grad,udaljenost_km
 646,Postira,0.39
 647,Povlja,0.28
 648,Povlja,1.05
-649,Pučišća,0.09
-650,Pučišća,0.09
+649,Pučišća,0.41
+650,Pučišća,0.47
 651,Selca,2.04
 652,Splitska,0.22
 653,Sumartin,0.39
@@ -678,20 +678,20 @@ beach_id,grad,udaljenost_km
 677,Stari Grad,1.18
 678,Stari Grad,2.57
 679,Vrboska,1.57
-680,Kaštel Gomilica,0.0
-681,Kaštel Kambelovac,0.0
-682,Kaštel Lukšić,0.17
-683,Kaštel Lukšić,0.17
-684,Kaštel Stari,0.31
-685,Kaštel Stari,0.31
-686,Kaštel Sućurac,0.0
-687,Kaštel Štafilić,0.0
+680,Kaštel Gomilica,0.62
+681,Kaštel Kambelovac,0.39
+682,Kaštel Lukšić,0.61
+683,Kaštel Lukšić,0.37
+684,Kaštel Stari,0.37
+685,Kaštel Stari,0.6
+686,Kaštel Sućurac,0.25
+687,Kaštel Štafilić,0.62
 688,Resnik,0.0
-689,Baška Voda,0.29
-690,Baška Voda,0.58
-691,Baška Voda,0.15
-692,Baška Voda,0.3
-693,Baška Voda,0.49
+689,Baška Voda,0.41
+690,Baška Voda,0.63
+691,Baška Voda,0.19
+692,Baška Voda,0.34
+693,Baška Voda,0.61
 694,Bračtuš,0.0
 695,Brela,0.86
 696,Brela,0.7
@@ -700,7 +700,7 @@ beach_id,grad,udaljenost_km
 699,Brela,0.31
 700,Brela,2.08
 701,Brist,0.06
-702,Drašnice,0.0
+702,Drašnice,0.21
 703,Drvenik,0.06
 704,Drvenik,1.0
 705,Gradac,0.36
@@ -712,26 +712,26 @@ beach_id,grad,udaljenost_km
 711,Makarska,0.77
 712,Podgora,0.36
 713,Podgora,0.67
-714,Tučepi,0.32
-715,Tučepi,0.92
-716,Tučepi,0.62
+714,Tučepi,0.7
+715,Tučepi,0.56
+716,Tučepi,1.03
 717,Zaostrog,0.3
-718,Živogošće,1.63
-719,Živogošće,1.63
-720,Duće,0.75
-721,Duće,0.75
+718,Živogošće,3.6
+719,Živogošće,0.46
+720,Duće,1.14
+721,Duće,0.39
 722,Dugi Rat,4.21
 723,Dugi Rat,0.78
 724,Dugi Rat,0.27
 725,Dugi Rat,3.61
 726,Dugi Rat,1.49
 727,Lokva Rogoznica,1.8
-728,Omiš,1.77
-729,Omiš,0.45
-730,Omiš,1.39
-731,Omiš,1.17
-732,Omiš,1.17
-733,Omiš,2.73
+728,Omiš,1.17
+729,Omiš,1.19
+730,Omiš,2.78
+731,Omiš,0.58
+732,Omiš,0.32
+733,Omiš,4.05
 734,Pisak,0.11
 735,Podstrana,2.03
 736,Podstrana,1.84
@@ -750,10 +750,10 @@ beach_id,grad,udaljenost_km
 749,Split,3.49
 750,Split,3.12
 751,Maslinica,0.44
-752,Rogač,0.0
-753,Marina,0.87
-754,Marina,2.19
-755,Marina,0.78
+752,Rogač,0.24
+753,Marina,0.9
+754,Marina,2.22
+755,Marina,0.81
 756,Seget,0.87
 757,Seget,0.38
 758,Seget,1.68
@@ -772,19 +772,19 @@ beach_id,grad,udaljenost_km
 771,Split/Šlatine,0.0
 772,Trogir,1.18
 773,Trogir,2.15
-774,Komiža,0.33
-775,Komiža,0.33
+774,Komiža,0.65
+775,Komiža,0.22
 776,Vis,4.39
 777,Vis,3.0
 778,Vis,3.92
-779,Dubrovačko primorje,1.32
-780,Dubrovačko primorje,0.29
+779,Dubrovačko primorje,3.67
+780,Dubrovačko primorje,4.7
 781,Dubrovnik,14.48
 782,Konavle,16.14
 783,Konavle,16.65
 784,Konavle,16.18
 785,Konavle,16.78
-786,Dubrovačko primorje,4.93
+786,Dubrovačko primorje,4.19
 787,Dubrovnik,2.04
 788,Dubrovnik,1.08
 789,Dubrovnik,2.44
@@ -814,14 +814,14 @@ beach_id,grad,udaljenost_km
 813,Blato,3.31
 814,Blato,4.69
 815,Blato,3.73
-816,Korčula,3.41
-817,Korčula,1.23
-818,Korčula,1.82
-819,Korčula,1.3
-820,Korčula,1.26
-821,Korčula,8.4
-822,Korčula,0.66
-823,Korčula,0.91
+816,Korčula,20.31
+817,Korčula,18.27
+818,Korčula,18.7
+819,Korčula,18.33
+820,Korčula,18.34
+821,Korčula,9.36
+822,Korčula,17.66
+823,Korčula,16.18
 824,Lumbarda,1.26
 825,Lumbarda,1.48
 826,Lumbarda,0.68
@@ -829,8 +829,8 @@ beach_id,grad,udaljenost_km
 828,Vela Luka,1.62
 829,Vela Luka,0.45
 830,Vela Luka,8.4
-831,Orebić,5.87
-832,Župa dubrovačka,1.02
+831,Orebić,4.36
+832,Župa dubrovačka,1.55
 833,Lastovo,5.11
 834,Lastovo,5.38
 835,Lastovo,1.65
@@ -839,9 +839,9 @@ beach_id,grad,udaljenost_km
 838,Dubrovnik,3.59
 839,Dubrovnik,12.06
 840,Dubrovnik,13.45
-841,Orebić,15.03
-842,Župa dubrovačka,0.33
-843,Župa dubrovačka,0.49
+841,Orebić,13.24
+842,Župa dubrovačka,2.43
+843,Župa dubrovačka,1.96
 844,Mljet,17.4
 845,Mljet,16.43
 846,Mljet,4.17
@@ -853,33 +853,33 @@ beach_id,grad,udaljenost_km
 852,Konavle,6.9
 853,Opuzen,7.96
 854,Dubrovnik,9.14
-855,Orebić,3.06
-856,Orebić,2.53
-857,Orebić,1.44
+855,Orebić,1.56
+856,Orebić,0.98
+857,Orebić,0.65
 858,Janjina,1.72
-859,Orebić,18.32
+859,Orebić,20.07
 860,Ston,2.79
 861,Ston,5.48
-862,Župa dubrovačka,2.01
-863,Ploče,2.82
-864,Ploče,2.82
+862,Župa dubrovačka,4.39
+863,Ploče,1.57
+864,Ploče,4.13
 865,Ston,2.93
 866,Konavle,14.88
-867,Dubrovačko primorje,1.16
-868,Dubrovačko primorje,3.12
-869,Dubrovačko primorje,2.14
+867,Dubrovačko primorje,6.12
+868,Dubrovačko primorje,7.17
+869,Dubrovačko primorje,6.98
 870,Slivno,5.6
 871,Slivno,3.05
 872,Slivno,2.48
 873,Slivno,3.78
 874,Slivno,2.53
-875,Župa dubrovačka,0.7
+875,Župa dubrovačka,1.7
 876,Janjina,2.63
 877,Ston,0.57
 878,Dubrovnik,16.46
 879,Dubrovnik,21.61
 880,Trpanj,0.74
 881,Trpanj,1.04
-882,Orebić,17.08
-883,Orebić,8.05
+882,Orebić,18.82
+883,Orebić,6.5
 884,Ston,20.63
