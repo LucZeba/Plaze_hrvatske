@@ -70,8 +70,8 @@ id,naziv,lat,lon,grad,podrucje,zupanija,konacna_ocjena
 69,Monte Mulini - Do lukobrana,45.07332,13.63437,Rovinj,Lone U.,Istarska,izvrsno
 70,Lovrecica - Molo,45.381,13.53602,Umag,Lovreica,Istarska,izvrsno
 71,Uvala Slanik,45.37907,13.54005,Umag,Lovreica,Istarska,izvrsno
-72,AC Mareda - Ispod restorana,45.34198,13.54133,Novigrad,Mareda,Istarska,izvrsno
-73,Mareda - Caffe Macumba,45.34478,13.53882,Novigrad,Mareda,Istarska,izvrsno
+72,AC Mareda - Ispod restorana,45.34198,13.54133,Novigrad-istarska,Mareda,Istarska,izvrsno
+73,Mareda - Caffe Macumba,45.34478,13.53882,Novigrad-istarska,Mareda,Istarska,izvrsno
 74,Rt Sv. Martin - Prema uvali Sv. Martin,45.25103,13.59093,Poreč,Materada,Istarska,izvrsno
 75,AC Medulin - Mali poluotok (punta),44.80303,13.93141,Medulin,Medulin,Istarska,izvrsno
 76,AC Medulin - Markovi brigi,44.80745,13.93201,Medulin,Medulin,Istarska,izvrsno
@@ -87,15 +87,15 @@ id,naziv,lat,lon,grad,podrucje,zupanija,konacna_ocjena
 86,AC Amarin - Molo,45.10359,13.61674,Rovinj,Monsena,Istarska,izvrsno
 87,AC Amarin - pjescana plaza,45.10319,13.61891,Rovinj,Monsena,Istarska,izvrsno
 88,TN Valdaliso - Rt Barabiga,45.09932,13.62285,Rovinj,Monsena,Istarska,izvrsno
-89,Novigrad - Karpinjan,45.32173,13.55782,Novigrad,Novigrad,Istarska,izvrsno
-90,Novigrad - Rivarela,45.31313888,13.5635,Novigrad,Novigrad,Istarska,izvrsno
-91,Novigrad - Sv. Pelagij,45.3179,13.55823,Novigrad,Novigrad,Istarska,izvrsno
-92,Novigrad - Zidine,45.31333,13.55994,Novigrad,Novigrad,Istarska,izvrsno
+89,Novigrad - Karpinjan,45.32173,13.55782,Novigrad-istarska,Novigrad,Istarska,izvrsno
+90,Novigrad - Rivarela,45.31313888,13.5635,Novigrad-istarska,Novigrad,Istarska,izvrsno
+91,Novigrad - Sv. Pelagij,45.3179,13.55823,Novigrad-istarska,Novigrad,Istarska,izvrsno
+92,Novigrad - Zidine,45.31333,13.55994,Novigrad-istarska,Novigrad,Istarska,izvrsno
 93,Pelegrin - Pelegrin,45.40580555,13.52441666,Umag,Pelegrin,Istarska,izvrsno
 94,Spina - Spina,45.40148,13.52897,Umag,Pelegrin,Istarska,izvrsno
 95,Peroj - Bozinka,44.94615532,13.78809195,Vodnjan,Peroj,Istarska,izvrsno
 96,TN Petalon - Kamenita plaza,45.1397,13.59743,Vrsar,Petalon,Istarska,izvrsno
-97,Pineta - jug,45.32638888,13.54580555,Novigrad,Pineta,Istarska,izvrsno
+97,Pineta - jug,45.32638888,13.54580555,Novigrad-istarska,Pineta,Istarska,izvrsno
 98,Pjescana Uvala - Plaza,44.83715,13.84575,Medulin,Pjeana uvala,Istarska,nezadovoljavajuće
 99,Hotel Galiot - Ispod hotela,45.20804,13.5874,Poreč,Plava laguna,Istarska,izvrsno
 100,Hotel Galiot - Prema uvali,45.2104,13.5883,Poreč,Plava laguna,Istarska,izvrsno
@@ -154,9 +154,9 @@ id,naziv,lat,lon,grad,podrucje,zupanija,konacna_ocjena
 153,Spadici - Uvala Srgulje (juzni dio),45.23991,13.59536,Poreč,Špadiči,Istarska,izvrsno
 154,Spadici - Uvala Srgulje (sjeverni dio),45.24323,13.59792,Poreč,Špadiči,Istarska,izvrsno
 155,Spadici - Uvala Srgulje (sredina),45.2417,13.59731,Poreč,Špadiči,Istarska,izvrsno
-156,TN Tere - AC Sirena,45.31348,13.5767,Novigrad,Tere,Istarska,izvrsno
-157,TN Tere - Hotel Laguna,45.31356,13.57509,Novigrad,Tere,Istarska,izvrsno
-158,TN Tere - Hotel Maestral,45.31346,13.57281,Novigrad,Tere,Istarska,izvrsno
+156,TN Tere - AC Sirena,45.31348,13.5767,Novigrad-istarska,Tere,Istarska,izvrsno
+157,TN Tere - Hotel Laguna,45.31356,13.57509,Novigrad-istarska,Tere,Istarska,izvrsno
+158,TN Tere - Hotel Maestral,45.31346,13.57281,Novigrad-istarska,Tere,Istarska,izvrsno
 159,AC Tunarica - Lijeva strana uvale,44.97097,14.09685,Raša,Tunarica,Istarska,izvrsno
 160,AC Ulika - Rt Frnaze,45.25406,13.58023,Poreč,Ulika,Istarska,izvrsno
 161,AC Ulika - Rt Silok - sjeverni dio,45.25743,13.57541,Poreč,Ulika,Istarska,izvrsno
@@ -483,7 +483,7 @@ id,naziv,lat,lon,grad,podrucje,zupanija,konacna_ocjena
 482,Uvala Vruljine,43.97611111111111111111111111111111111111,15.34861111111111111111111111111111111111,Pašman,Neviane,Zadarska,izvrsno
 483,Kraljicina Plaza,44.251962054209464,15.175530910491943,Nin,Nin,Zadarska,izvrsno
 484,Zdrijac,44.24755079651135,15.19357681274414,Nin,Nin,Zadarska,izvrsno
-485,Sveti Nikola,44.19,15.54638888888888888888888888888888888889,Novigrad,Novigrad,Zadarska,izvrsno
+485,Sveti Nikola,44.19,15.54638888888888888888888888888888888889,Novigrad-zadarska,Novigrad,Zadarska,izvrsno
 486,"Olib, Mjesno Kupaliste",44.37837966335955,14.77534532546997,Olib,Olib,Zadarska,izvrsno
 487,Sveti Duh,44.52127985108867,14.946727752685546,Kolan,Otok Pag,Zadarska,izvrsno
 488,Uvala Krijal,44.33611111111111111111111111111111111111,14.59527777777777777777777777777777777778,Premuda,Otok Premuda,Zadarska,izvrsno
